@@ -1,8 +1,13 @@
 ---
-layout: collection
+layout: archive
 title: "Research"
 collection: research
 permalink: /research/
 author_profile: true
-entries_layout: grid
+entries_layout: grid   # "grid" = cards; use "list" for a vertical list
 ---
+
+{% assign items = site.research | sort: "date" | reverse %}
+{% for post in items %}
+  {% include archive-single.html type="grid" %}
+{% endfor %}
