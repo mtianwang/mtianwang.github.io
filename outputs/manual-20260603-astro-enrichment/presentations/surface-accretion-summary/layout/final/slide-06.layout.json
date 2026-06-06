@@ -1,0 +1,1752 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/3bb4z9",
+    "id": "3bb4z9",
+    "slide": 6,
+    "layoutId": "022543a9-0110-463e-88d8-f3040e74a77f",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "c42b9d40-480b-4d41-8958-864630e0d074",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Arial"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "022543a9-0110-463e-88d8-f3040e74a77f",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "c42b9d40-480b-4d41-8958-864630e0d074",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "c42b9d40-480b-4d41-8958-864630e0d074",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/oj2t83it",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.0"
+      },
+      "geometry": "rect",
+      "fillColor": "#07111F"
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vy90je9c",
+      "id": "2",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1"
+      },
+      "geometry": "rect",
+      "fillColor": "#0B1726"
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6dcbulwv",
+      "id": "3",
+      "bbox": [
+        58,
+        48,
+        6,
+        54
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.2"
+      },
+      "geometry": "rect",
+      "fillColor": "#3DD6D0"
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dsji5sne",
+      "id": "4",
+      "bbox": [
+        82,
+        42,
+        850,
+        60
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.3"
+      },
+      "geometry": "rect",
+      "text": "研究结论 II：富集程度随剩余气体质量下降而升高",
+      "textPreview": "研究结论 II：富集程度随剩余气体质量下降而升高",
+      "resolvedFontSize": 32,
+      "resolvedTextStyle": {
+        "fontSize": 32,
+        "typeface": "Arial",
+        "color": "#EEF6FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "研究结论 II：富集程度随剩余气体质量下降而升高"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "研究结论 II：富集程度随剩余气体质量下降而升高",
+          "resolvedTextStyle": {
+            "fontSize": 32,
+            "typeface": "Arial",
+            "color": "#EEF6FF",
+            "bold": true,
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "研究结论 II：富集程度随剩余气体质量下降而升高",
+              "fontSize": 32,
+              "typeface": "Arial",
+              "color": "#EEF6FF",
+              "bold": true,
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/o7qpg3ex",
+      "id": "5",
+      "bbox": [
+        1010,
+        52,
+        210,
+        28
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.4"
+      },
+      "geometry": "rect",
+      "text": "Fig. 4",
+      "textPreview": "Fig. 4",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "Arial",
+        "color": "#9FB4C8",
+        "alignment": "right",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Fig. 4"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Fig. 4",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "Arial",
+            "color": "#9FB4C8",
+            "alignment": "right",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Fig. 4",
+              "fontSize": 13,
+              "typeface": "Arial",
+              "color": "#9FB4C8",
+              "alignment": "right",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vmtwra5g",
+      "id": "6",
+      "bbox": [
+        58,
+        118,
+        1164,
+        1.5
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.5"
+      },
+      "geometry": "rect",
+      "fillColor": "#254057"
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/61032lsz",
+      "id": "7",
+      "bbox": [
+        72,
+        156,
+        386,
+        438
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.6"
+      },
+      "geometry": "roundRect",
+      "fillColor": "#0F2133"
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dg7adsji",
+      "id": "8",
+      "bbox": [
+        106,
+        194,
+        150,
+        32
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.7"
+      },
+      "geometry": "rect",
+      "text": "核心趋势",
+      "textPreview": "核心趋势",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Arial",
+        "color": "#F4C95D",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "核心趋势"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "核心趋势",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Arial",
+            "color": "#F4C95D",
+            "bold": true,
+            "alignment": "left",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "核心趋势",
+              "fontSize": 24,
+              "typeface": "Arial",
+              "color": "#F4C95D",
+              "bold": true,
+              "alignment": "left",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ovahoza1",
+      "id": "9",
+      "bbox": [
+        106,
+        252,
+        302,
+        120
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.8"
+      },
+      "geometry": "rect",
+      "text": "在脆弱尘埃模型中，均匀吸积盘的水汽富集很快进入数倍平台；表面吸积盘则随着盘气体质量下降持续增强，直到冰尘埃被耗尽。",
+      "textPreview": "在脆弱尘埃模型中，均匀吸积盘的水汽富集很快进入数倍平台；表面吸积盘则随着盘气体质量下降持续增强，直到冰尘埃被耗尽。",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "Arial",
+        "color": "#EEF6FF",
+        "alignment": "left",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 5,
+        "lines": [
+          {
+            "index": 1,
+            "text": "在脆弱尘埃模型中，均匀吸积"
+          },
+          {
+            "index": 2,
+            "text": "盘的水汽富集很快进入数倍平"
+          },
+          {
+            "index": 3,
+            "text": "台；表面吸积盘则随着盘气体"
+          },
+          {
+            "index": 4,
+            "text": "质量下降持续增强，直到冰尘"
+          },
+          {
+            "index": 5,
+            "text": "埃被耗尽。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "在脆弱尘埃模型中，均匀吸积盘的水汽富集很快进入数倍平台；表面吸积盘则随着盘气体质量下降持续增强，直到冰尘埃被耗尽。",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Arial",
+            "color": "#EEF6FF",
+            "alignment": "left",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "在脆弱尘埃模型中，均匀吸积盘的水汽富集很快进入数倍平台；表面吸积盘则随着盘气体质量下降持续增强，直到冰尘埃被耗尽。",
+              "fontSize": 22,
+              "typeface": "Arial",
+              "color": "#EEF6FF",
+              "alignment": "left",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mtwra5gb",
+      "id": "10",
+      "bbox": [
+        106,
+        416,
+        302,
+        44
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.9"
+      },
+      "geometry": "rect",
+      "text": "Mg ↓  →  Zgas ↑",
+      "textPreview": "Mg ↓  →  Zgas ↑",
+      "resolvedFontSize": 34,
+      "resolvedTextStyle": {
+        "fontSize": 34,
+        "typeface": "Arial",
+        "color": "#3DD6D0",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Mg ↓  →  Zgas ↑"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Mg ↓  →  Zgas ↑",
+          "resolvedTextStyle": {
+            "fontSize": 34,
+            "typeface": "Arial",
+            "color": "#3DD6D0",
+            "bold": true,
+            "alignment": "center",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Mg ↓  →  Zgas ↑",
+              "fontSize": 34,
+              "typeface": "Arial",
+              "color": "#3DD6D0",
+              "bold": true,
+              "alignment": "center",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fepkzupw",
+      "id": "11",
+      "bbox": [
+        106,
+        490,
+        302,
+        70
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.10"
+      },
+      "geometry": "rect",
+      "text": "若行星最终质量与剩余可吸积气体量相关，这一关系可转化为 Mp ↓ → Zatm ↑。",
+      "textPreview": "若行星最终质量与剩余可吸积气体量相关，这一关系可转化为 Mp ↓ → Zatm ↑。",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Arial",
+        "color": "#EEF6FF",
+        "alignment": "left",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "若行星最终质量与剩余可吸积气体"
+          },
+          {
+            "index": 2,
+            "text": "量相关，这一关系可转化为 Mp ↓"
+          },
+          {
+            "index": 3,
+            "text": "→ Zatm ↑。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "若行星最终质量与剩余可吸积气体量相关，这一关系可转化为 Mp ↓ → Zatm ↑。",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Arial",
+            "color": "#EEF6FF",
+            "alignment": "left",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "若行星最终质量与剩余可吸积气体量相关，这一关系可转化为 Mp ↓ → Zatm ↑。",
+              "fontSize": 20,
+              "typeface": "Arial",
+              "color": "#EEF6FF",
+              "alignment": "left",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4zidonyd",
+      "id": "12",
+      "bbox": [
+        508,
+        152,
+        664,
+        438
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.11.0"
+      },
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF"
+    },
+    {
+      "order": 13,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/yhgn29gr",
+      "id": "13",
+      "bbox": [
+        518,
+        162,
+        644,
+        418
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.11.1"
+      },
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "3a090ef0-3183-4fa1-b335-0993243a3009",
+        "contentType": "image/png",
+        "uri": "/Users/neptune/mtianwang.github.io/outputs/manual-20260603-astro-enrichment/presentations/surface-accretion-summary/assets/fig4.png"
+      }
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mlkjm1cf",
+      "id": "14",
+      "bbox": [
+        516,
+        600,
+        648,
+        24
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.11.2"
+      },
+      "geometry": "rect",
+      "text": "Fig. 4  内盘 H2O 富集因子与剩余盘气体质量的关系",
+      "textPreview": "Fig. 4  内盘 H2O 富集因子与剩余盘气体质量的关系",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Arial",
+        "color": "#9FB4C8",
+        "alignment": "center",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Fig. 4  内盘 H2O 富集因子与剩余盘气体质量的关系"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Fig. 4  内盘 H2O 富集因子与剩余盘气体质量的关系",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Arial",
+            "color": "#9FB4C8",
+            "alignment": "center",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Fig. 4  内盘 H2O 富集因子与剩余盘气体质量的关系",
+              "fontSize": 12,
+              "typeface": "Arial",
+              "color": "#9FB4C8",
+              "alignment": "center",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/f6dcbulw",
+      "id": "15",
+      "bbox": [
+        58,
+        674,
+        720,
+        24
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.12"
+      },
+      "geometry": "rect",
+      "text": "Ikeda, Ohno & Okuzumi | Surface-accretion disk enrichment",
+      "textPreview": "Ikeda, Ohno & Okuzumi | Surface-accretion disk enrichment",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Arial",
+        "color": "#6E8398",
+        "alignment": "left",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Ikeda, Ohno & Okuzumi | Surface-accretion disk enrichment"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Ikeda, Ohno & Okuzumi | Surface-accretion disk enrichment",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Arial",
+            "color": "#6E8398",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Ikeda, Ohno & Okuzumi | Surface-accretion disk enrichment",
+              "fontSize": 12,
+              "typeface": "Arial",
+              "color": "#6E8398",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4r65wjud",
+      "id": "16",
+      "bbox": [
+        1170,
+        674,
+        52,
+        24
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.13"
+      },
+      "geometry": "rect",
+      "text": "06",
+      "textPreview": "06",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Arial",
+        "color": "#6E8398",
+        "alignment": "right",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "06"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "06",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Arial",
+            "color": "#6E8398",
+            "alignment": "right",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "06",
+              "fontSize": 12,
+              "typeface": "Arial",
+              "color": "#6E8398",
+              "alignment": "right",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    }
+  ],
+  "composeRuns": [
+    {
+      "index": 1,
+      "frame": {
+        "left": 0,
+        "top": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "root": {
+        "path": "0",
+        "kind": "layers",
+        "position": {
+          "left": 0,
+          "top": 0
+        },
+        "requestedSize": {
+          "width": {
+            "mode": "fixed",
+            "value": 1280
+          },
+          "height": {
+            "mode": "fixed",
+            "value": 720
+          }
+        },
+        "intrinsicSize": {
+          "width": 1280,
+          "height": 720
+        },
+        "frame": {
+          "left": 0,
+          "top": 0,
+          "width": 1280,
+          "height": 720
+        },
+        "children": [
+          {
+            "path": "0.0",
+            "kind": "shape",
+            "position": {
+              "left": 0,
+              "top": 0
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 1280
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 720
+              }
+            },
+            "intrinsicSize": {
+              "width": 1280,
+              "height": 720
+            },
+            "frame": {
+              "left": 0,
+              "top": 0,
+              "width": 1280,
+              "height": 720
+            },
+            "children": [],
+            "geometry": "rect",
+            "element": {
+              "aid": "sh/oj2t83it",
+              "id": "1",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.1",
+            "kind": "shape",
+            "position": {
+              "left": 0,
+              "top": 0
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 1280
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 720
+              }
+            },
+            "intrinsicSize": {
+              "width": 1280,
+              "height": 720
+            },
+            "frame": {
+              "left": 0,
+              "top": 0,
+              "width": 1280,
+              "height": 720
+            },
+            "children": [],
+            "geometry": "rect",
+            "element": {
+              "aid": "sh/vy90je9c",
+              "id": "2",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.2",
+            "kind": "shape",
+            "position": {
+              "left": 58,
+              "top": 48
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 6
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 54
+              }
+            },
+            "intrinsicSize": {
+              "width": 6,
+              "height": 54
+            },
+            "frame": {
+              "left": 58,
+              "top": 48,
+              "width": 6,
+              "height": 54
+            },
+            "children": [],
+            "geometry": "rect",
+            "element": {
+              "aid": "sh/6dcbulwv",
+              "id": "3",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.3",
+            "kind": "text",
+            "position": {
+              "left": 82,
+              "top": 42
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 850
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 60
+              }
+            },
+            "intrinsicSize": {
+              "width": 850,
+              "height": 60
+            },
+            "frame": {
+              "left": 82,
+              "top": 42,
+              "width": 850,
+              "height": 60
+            },
+            "children": [],
+            "text": "研究结论 II：富集程度随剩余气体质量下降而升高",
+            "transform": "none",
+            "element": {
+              "aid": "sh/dsji5sne",
+              "id": "4",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.4",
+            "kind": "text",
+            "position": {
+              "left": 1010,
+              "top": 52
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 210
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 28
+              }
+            },
+            "intrinsicSize": {
+              "width": 210,
+              "height": 28
+            },
+            "frame": {
+              "left": 1010,
+              "top": 52,
+              "width": 210,
+              "height": 28
+            },
+            "children": [],
+            "text": "Fig. 4",
+            "transform": "none",
+            "element": {
+              "aid": "sh/o7qpg3ex",
+              "id": "5",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.5",
+            "kind": "shape",
+            "position": {
+              "left": 58,
+              "top": 118
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 1164
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 1.5
+              }
+            },
+            "intrinsicSize": {
+              "width": 1164,
+              "height": 1.5
+            },
+            "frame": {
+              "left": 58,
+              "top": 118,
+              "width": 1164,
+              "height": 1.5
+            },
+            "children": [],
+            "geometry": "rect",
+            "element": {
+              "aid": "sh/vmtwra5g",
+              "id": "6",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.6",
+            "kind": "shape",
+            "position": {
+              "left": 72,
+              "top": 156
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 386
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 438
+              }
+            },
+            "intrinsicSize": {
+              "width": 386,
+              "height": 438
+            },
+            "frame": {
+              "left": 72,
+              "top": 156,
+              "width": 386,
+              "height": 438
+            },
+            "children": [],
+            "geometry": "rect",
+            "element": {
+              "aid": "sh/61032lsz",
+              "id": "7",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.7",
+            "kind": "text",
+            "position": {
+              "left": 106,
+              "top": 194
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 150
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 32
+              }
+            },
+            "intrinsicSize": {
+              "width": 150,
+              "height": 32
+            },
+            "frame": {
+              "left": 106,
+              "top": 194,
+              "width": 150,
+              "height": 32
+            },
+            "children": [],
+            "text": "核心趋势",
+            "transform": "none",
+            "element": {
+              "aid": "sh/dg7adsji",
+              "id": "8",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.8",
+            "kind": "text",
+            "position": {
+              "left": 106,
+              "top": 252
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 302
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 120
+              }
+            },
+            "intrinsicSize": {
+              "width": 302,
+              "height": 120
+            },
+            "frame": {
+              "left": 106,
+              "top": 252,
+              "width": 302,
+              "height": 120
+            },
+            "children": [],
+            "text": "在脆弱尘埃模型中，均匀吸积盘的水汽富集很快进入数倍平台；表面吸积盘则随着盘气体质量下降持续增强，直到冰尘埃被耗尽。",
+            "transform": "none",
+            "element": {
+              "aid": "sh/ovahoza1",
+              "id": "9",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.9",
+            "kind": "text",
+            "position": {
+              "left": 106,
+              "top": 416
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 302
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 44
+              }
+            },
+            "intrinsicSize": {
+              "width": 302,
+              "height": 44
+            },
+            "frame": {
+              "left": 106,
+              "top": 416,
+              "width": 302,
+              "height": 44
+            },
+            "children": [],
+            "text": "Mg ↓  →  Zgas ↑",
+            "transform": "none",
+            "element": {
+              "aid": "sh/mtwra5gb",
+              "id": "10",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.10",
+            "kind": "text",
+            "position": {
+              "left": 106,
+              "top": 490
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 302
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 70
+              }
+            },
+            "intrinsicSize": {
+              "width": 302,
+              "height": 70
+            },
+            "frame": {
+              "left": 106,
+              "top": 490,
+              "width": 302,
+              "height": 70
+            },
+            "children": [],
+            "text": "若行星最终质量与剩余可吸积气体量相关，这一关系可转化为 Mp ↓ → Zatm ↑。",
+            "transform": "none",
+            "element": {
+              "aid": "sh/fepkzupw",
+              "id": "11",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.11",
+            "kind": "layers",
+            "position": {
+              "left": 508,
+              "top": 152
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 664
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 474
+              }
+            },
+            "intrinsicSize": {
+              "width": 664,
+              "height": 472
+            },
+            "frame": {
+              "left": 508,
+              "top": 152,
+              "width": 664,
+              "height": 474
+            },
+            "children": [
+              {
+                "path": "0.11.0",
+                "kind": "shape",
+                "position": {
+                  "left": 0,
+                  "top": 0
+                },
+                "requestedSize": {
+                  "width": {
+                    "mode": "fixed",
+                    "value": 664
+                  },
+                  "height": {
+                    "mode": "fixed",
+                    "value": 438
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 664,
+                  "height": 438
+                },
+                "frame": {
+                  "left": 508,
+                  "top": 152,
+                  "width": 664,
+                  "height": 438
+                },
+                "children": [],
+                "geometry": "rect",
+                "element": {
+                  "aid": "sh/4zidonyd",
+                  "id": "12",
+                  "kind": "shape"
+                }
+              },
+              {
+                "path": "0.11.1",
+                "kind": "image",
+                "position": {
+                  "left": 10,
+                  "top": 10
+                },
+                "requestedSize": {
+                  "width": {
+                    "mode": "fixed",
+                    "value": 644
+                  },
+                  "height": {
+                    "mode": "fixed",
+                    "value": 418
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 644,
+                  "height": 418
+                },
+                "frame": {
+                  "left": 518,
+                  "top": 162,
+                  "width": 644,
+                  "height": 418
+                },
+                "children": [],
+                "source": {
+                  "kind": "path",
+                  "path": "/Users/neptune/mtianwang.github.io/outputs/manual-20260603-astro-enrichment/presentations/surface-accretion-summary/assets/fig4.png"
+                },
+                "fit": "contain",
+                "element": {
+                  "aid": "im/yhgn29gr",
+                  "id": "13",
+                  "kind": "image"
+                }
+              },
+              {
+                "path": "0.11.2",
+                "kind": "text",
+                "position": {
+                  "left": 8,
+                  "top": 448
+                },
+                "requestedSize": {
+                  "width": {
+                    "mode": "fixed",
+                    "value": 648
+                  },
+                  "height": {
+                    "mode": "fixed",
+                    "value": 24
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 648,
+                  "height": 24
+                },
+                "frame": {
+                  "left": 516,
+                  "top": 600,
+                  "width": 648,
+                  "height": 24
+                },
+                "children": [],
+                "text": "Fig. 4  内盘 H2O 富集因子与剩余盘气体质量的关系",
+                "transform": "none",
+                "element": {
+                  "aid": "sh/mlkjm1cf",
+                  "id": "14",
+                  "kind": "shape"
+                }
+              }
+            ],
+            "padding": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            },
+            "alignItems": "stretch",
+            "justifyItems": "stretch",
+            "contentFrame": {
+              "left": 508,
+              "top": 152,
+              "width": 664,
+              "height": 474
+            },
+            "items": [
+              {
+                "path": "0.11.0",
+                "frame": {
+                  "left": 508,
+                  "top": 152,
+                  "width": 664,
+                  "height": 438
+                }
+              },
+              {
+                "path": "0.11.1",
+                "frame": {
+                  "left": 518,
+                  "top": 162,
+                  "width": 644,
+                  "height": 418
+                }
+              },
+              {
+                "path": "0.11.2",
+                "frame": {
+                  "left": 516,
+                  "top": 600,
+                  "width": 648,
+                  "height": 24
+                }
+              }
+            ]
+          },
+          {
+            "path": "0.12",
+            "kind": "text",
+            "position": {
+              "left": 58,
+              "top": 674
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 720
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 24
+              }
+            },
+            "intrinsicSize": {
+              "width": 720,
+              "height": 24
+            },
+            "frame": {
+              "left": 58,
+              "top": 674,
+              "width": 720,
+              "height": 24
+            },
+            "children": [],
+            "text": "Ikeda, Ohno & Okuzumi | Surface-accretion disk enrichment",
+            "transform": "none",
+            "element": {
+              "aid": "sh/f6dcbulw",
+              "id": "15",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.13",
+            "kind": "text",
+            "position": {
+              "left": 1170,
+              "top": 674
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 52
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 24
+              }
+            },
+            "intrinsicSize": {
+              "width": 52,
+              "height": 24
+            },
+            "frame": {
+              "left": 1170,
+              "top": 674,
+              "width": 52,
+              "height": 24
+            },
+            "children": [],
+            "text": "06",
+            "transform": "none",
+            "element": {
+              "aid": "sh/4r65wjud",
+              "id": "16",
+              "kind": "shape"
+            }
+          }
+        ],
+        "padding": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "alignItems": "stretch",
+        "justifyItems": "stretch",
+        "contentFrame": {
+          "left": 0,
+          "top": 0,
+          "width": 1280,
+          "height": 720
+        },
+        "items": [
+          {
+            "path": "0.0",
+            "frame": {
+              "left": 0,
+              "top": 0,
+              "width": 1280,
+              "height": 720
+            }
+          },
+          {
+            "path": "0.1",
+            "frame": {
+              "left": 0,
+              "top": 0,
+              "width": 1280,
+              "height": 720
+            }
+          },
+          {
+            "path": "0.2",
+            "frame": {
+              "left": 58,
+              "top": 48,
+              "width": 6,
+              "height": 54
+            }
+          },
+          {
+            "path": "0.3",
+            "frame": {
+              "left": 82,
+              "top": 42,
+              "width": 850,
+              "height": 60
+            }
+          },
+          {
+            "path": "0.4",
+            "frame": {
+              "left": 1010,
+              "top": 52,
+              "width": 210,
+              "height": 28
+            }
+          },
+          {
+            "path": "0.5",
+            "frame": {
+              "left": 58,
+              "top": 118,
+              "width": 1164,
+              "height": 1.5
+            }
+          },
+          {
+            "path": "0.6",
+            "frame": {
+              "left": 72,
+              "top": 156,
+              "width": 386,
+              "height": 438
+            }
+          },
+          {
+            "path": "0.7",
+            "frame": {
+              "left": 106,
+              "top": 194,
+              "width": 150,
+              "height": 32
+            }
+          },
+          {
+            "path": "0.8",
+            "frame": {
+              "left": 106,
+              "top": 252,
+              "width": 302,
+              "height": 120
+            }
+          },
+          {
+            "path": "0.9",
+            "frame": {
+              "left": 106,
+              "top": 416,
+              "width": 302,
+              "height": 44
+            }
+          },
+          {
+            "path": "0.10",
+            "frame": {
+              "left": 106,
+              "top": 490,
+              "width": 302,
+              "height": 70
+            }
+          },
+          {
+            "path": "0.11",
+            "frame": {
+              "left": 508,
+              "top": 152,
+              "width": 664,
+              "height": 474
+            }
+          },
+          {
+            "path": "0.12",
+            "frame": {
+              "left": 58,
+              "top": 674,
+              "width": 720,
+              "height": 24
+            }
+          },
+          {
+            "path": "0.13",
+            "frame": {
+              "left": 1170,
+              "top": 674,
+              "width": 52,
+              "height": 24
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

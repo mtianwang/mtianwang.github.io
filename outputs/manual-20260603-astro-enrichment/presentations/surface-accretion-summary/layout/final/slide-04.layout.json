@@ -1,0 +1,2220 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/4cvad8",
+    "id": "4cvad8",
+    "slide": 4,
+    "layoutId": "022543a9-0110-463e-88d8-f3040e74a77f",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "c42b9d40-480b-4d41-8958-864630e0d074",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Arial"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "022543a9-0110-463e-88d8-f3040e74a77f",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "c42b9d40-480b-4d41-8958-864630e0d074",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "c42b9d40-480b-4d41-8958-864630e0d074",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/upwb2hwf",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.0"
+      },
+      "geometry": "rect",
+      "fillColor": "#07111F"
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5gbq1ory",
+      "id": "2",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1"
+      },
+      "geometry": "rect",
+      "fillColor": "#0B1726"
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cvixczed",
+      "id": "3",
+      "bbox": [
+        58,
+        48,
+        6,
+        54
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.2"
+      },
+      "geometry": "rect",
+      "fillColor": "#3DD6D0"
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nyd0z610",
+      "id": "4",
+      "bbox": [
+        82,
+        42,
+        850,
+        60
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.3"
+      },
+      "geometry": "rect",
+      "text": "研究方法：比较两种吸积垂直结构",
+      "textPreview": "研究方法：比较两种吸积垂直结构",
+      "resolvedFontSize": 32,
+      "resolvedTextStyle": {
+        "fontSize": 32,
+        "typeface": "Arial",
+        "color": "#EEF6FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "研究方法：比较两种吸积垂直结构"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "研究方法：比较两种吸积垂直结构",
+          "resolvedTextStyle": {
+            "fontSize": 32,
+            "typeface": "Arial",
+            "color": "#EEF6FF",
+            "bold": true,
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "研究方法：比较两种吸积垂直结构",
+              "fontSize": 32,
+              "typeface": "Arial",
+              "color": "#EEF6FF",
+              "bold": true,
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/udg7adsj",
+      "id": "5",
+      "bbox": [
+        1010,
+        52,
+        210,
+        28
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.4"
+      },
+      "geometry": "rect",
+      "text": "Fig. 2",
+      "textPreview": "Fig. 2",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "Arial",
+        "color": "#9FB4C8",
+        "alignment": "right",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Fig. 2"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Fig. 2",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "Arial",
+            "color": "#9FB4C8",
+            "alignment": "right",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Fig. 2",
+              "fontSize": 13,
+              "typeface": "Arial",
+              "color": "#9FB4C8",
+              "alignment": "right",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/54zidony",
+      "id": "6",
+      "bbox": [
+        58,
+        118,
+        1164,
+        1.5
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.5"
+      },
+      "geometry": "rect",
+      "fillColor": "#254057"
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cj6tovah",
+      "id": "7",
+      "bbox": [
+        66,
+        156,
+        560,
+        398
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.6.0"
+      },
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF"
+    },
+    {
+      "order": 8,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/qtcj6tov",
+      "id": "8",
+      "bbox": [
+        76,
+        166,
+        540,
+        378
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.6.1"
+      },
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "c45bdb0a-5c0a-4a59-ac3c-70c50218d483",
+        "contentType": "image/png",
+        "uri": "/Users/neptune/mtianwang.github.io/outputs/manual-20260603-astro-enrichment/presentations/surface-accretion-summary/assets/fig2.png"
+      }
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u9knih4b",
+      "id": "9",
+      "bbox": [
+        74,
+        564,
+        544,
+        24
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.6.2"
+      },
+      "geometry": "rect",
+      "text": "Fig. 2  均匀吸积与表面吸积下气体和尘埃输运的差异",
+      "textPreview": "Fig. 2  均匀吸积与表面吸积下气体和尘埃输运的差异",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Arial",
+        "color": "#9FB4C8",
+        "alignment": "center",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Fig. 2  均匀吸积与表面吸积下气体和尘埃输运的差异"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Fig. 2  均匀吸积与表面吸积下气体和尘埃输运的差异",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Arial",
+            "color": "#9FB4C8",
+            "alignment": "center",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Fig. 2  均匀吸积与表面吸积下气体和尘埃输运的差异",
+              "fontSize": 12,
+              "typeface": "Arial",
+              "color": "#9FB4C8",
+              "alignment": "center",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/47y1kre1",
+      "id": "10",
+      "bbox": [
+        690,
+        156,
+        480,
+        398
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.7"
+      },
+      "geometry": "roundRect",
+      "fillColor": "#0F2133"
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tsvu9kni",
+      "id": "11",
+      "bbox": [
+        724,
+        190,
+        370,
+        34
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.8"
+      },
+      "geometry": "rect",
+      "text": "一维气体-尘埃-H2O 演化模型",
+      "textPreview": "一维气体-尘埃-H2O 演化模型",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Arial",
+        "color": "#F4C95D",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "一维气体-尘埃-H2O 演化模型"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "一维气体-尘埃-H2O 演化模型",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Arial",
+            "color": "#F4C95D",
+            "bold": true,
+            "alignment": "left",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "一维气体-尘埃-H2O 演化模型",
+              "fontSize": 24,
+              "typeface": "Arial",
+              "color": "#F4C95D",
+              "bold": true,
+              "alignment": "left",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m1cfa9w3",
+      "id": "12",
+      "bbox": [
+        724,
+        260,
+        9,
+        9
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.9.0"
+      },
+      "geometry": "roundRect",
+      "fillColor": "#F4C95D"
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bm58z25k",
+      "id": "13",
+      "bbox": [
+        748,
+        252,
+        346,
+        54
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.9.1"
+      },
+      "geometry": "rect",
+      "text": "同时演化气体、尘埃和 H2O 表面密度。",
+      "textPreview": "同时演化气体、尘埃和 H2O 表面密度。",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Arial",
+        "color": "#EEF6FF",
+        "alignment": "left",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "同时演化气体、尘埃和 H2O"
+          },
+          {
+            "index": 2,
+            "text": "表面密度。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "同时演化气体、尘埃和 H2O 表面密度。",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Arial",
+            "color": "#EEF6FF",
+            "alignment": "left",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "同时演化气体、尘埃和 H2O 表面密度。",
+              "fontSize": 20,
+              "typeface": "Arial",
+              "color": "#EEF6FF",
+              "alignment": "left",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4vmtwra5",
+      "id": "14",
+      "bbox": [
+        724,
+        326,
+        9,
+        9
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.10.0"
+      },
+      "geometry": "roundRect",
+      "fillColor": "#3DD6D0"
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tgfmlkjm",
+      "id": "15",
+      "bbox": [
+        748,
+        318,
+        346,
+        54
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.10.1"
+      },
+      "geometry": "rect",
+      "text": "包含径向输运、湍流扩散、尘埃碰撞生长/破碎，以及水冰升华/凝结。",
+      "textPreview": "包含径向输运、湍流扩散、尘埃碰撞生长/破碎，以及水冰升华/凝结。",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Arial",
+        "color": "#EEF6FF",
+        "alignment": "left",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "包含径向输运、湍流扩散、尘埃碰撞生"
+          },
+          {
+            "index": 2,
+            "text": "长/破碎，以及水冰升华/凝结。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "包含径向输运、湍流扩散、尘埃碰撞生长/破碎，以及水冰升华/凝结。",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Arial",
+            "color": "#EEF6FF",
+            "alignment": "left",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "包含径向输运、湍流扩散、尘埃碰撞生长/破碎，以及水冰升华/凝结。",
+              "fontSize": 20,
+              "typeface": "Arial",
+              "color": "#EEF6FF",
+              "alignment": "left",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mp0bi9s3",
+      "id": "16",
+      "bbox": [
+        724,
+        408,
+        9,
+        9
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.11.0"
+      },
+      "geometry": "roundRect",
+      "fillColor": "#68A5FF"
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bat47y1k",
+      "id": "17",
+      "bbox": [
+        748,
+        400,
+        346,
+        54
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.11.1"
+      },
+      "geometry": "rect",
+      "text": "基准脆弱冰尘埃：vstick = 0.3 m/s；对照模型使用 1 m/s。",
+      "textPreview": "基准脆弱冰尘埃：vstick = 0.3 m/s；对照模型使用 1 m/s。",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Arial",
+        "color": "#EEF6FF",
+        "alignment": "left",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "基准脆弱冰尘埃：vstick = 0.3"
+          },
+          {
+            "index": 2,
+            "text": "m/s；对照模型使用 1 m/s。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "基准脆弱冰尘埃：vstick = 0.3 m/s；对照模型使用 1 m/s。",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Arial",
+            "color": "#EEF6FF",
+            "alignment": "left",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "基准脆弱冰尘埃：vstick = 0.3 m/s；对照模型使用 1 m/s。",
+              "fontSize": 20,
+              "typeface": "Arial",
+              "color": "#EEF6FF",
+              "alignment": "left",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4nap4r65",
+      "id": "18",
+      "bbox": [
+        724,
+        488,
+        388,
+        44
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.12"
+      },
+      "geometry": "rect",
+      "text": "核心差异：表面吸积移除气体，但难以直接带走沉降到中平面的冰尘埃。",
+      "textPreview": "核心差异：表面吸积移除气体，但难以直接带走沉降到中平面的冰尘埃。",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Arial",
+        "color": "#EEF6FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "核心差异：表面吸积移除气体，但难以直接"
+          },
+          {
+            "index": 2,
+            "text": "带走沉降到中平面的冰尘埃。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "核心差异：表面吸积移除气体，但难以直接带走沉降到中平面的冰尘埃。",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Arial",
+            "color": "#EEF6FF",
+            "bold": true,
+            "alignment": "left",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "核心差异：表面吸积移除气体，但难以直接带走沉降到中平面的冰尘埃。",
+              "fontSize": 20,
+              "typeface": "Arial",
+              "color": "#EEF6FF",
+              "bold": true,
+              "alignment": "left",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t83itgfm",
+      "id": "19",
+      "bbox": [
+        58,
+        674,
+        720,
+        24
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.13"
+      },
+      "geometry": "rect",
+      "text": "Ikeda, Ohno & Okuzumi | Surface-accretion disk enrichment",
+      "textPreview": "Ikeda, Ohno & Okuzumi | Surface-accretion disk enrichment",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Arial",
+        "color": "#6E8398",
+        "alignment": "left",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Ikeda, Ohno & Okuzumi | Surface-accretion disk enrichment"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Ikeda, Ohno & Okuzumi | Surface-accretion disk enrichment",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Arial",
+            "color": "#6E8398",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Ikeda, Ohno & Okuzumi | Surface-accretion disk enrichment",
+              "fontSize": 12,
+              "typeface": "Arial",
+              "color": "#6E8398",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xs72x4na",
+      "id": "20",
+      "bbox": [
+        1170,
+        674,
+        52,
+        24
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.14"
+      },
+      "geometry": "rect",
+      "text": "04",
+      "textPreview": "04",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Arial",
+        "color": "#6E8398",
+        "alignment": "right",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "04"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "04",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Arial",
+            "color": "#6E8398",
+            "alignment": "right",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "04",
+              "fontSize": 12,
+              "typeface": "Arial",
+              "color": "#6E8398",
+              "alignment": "right",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    }
+  ],
+  "composeRuns": [
+    {
+      "index": 1,
+      "frame": {
+        "left": 0,
+        "top": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "root": {
+        "path": "0",
+        "kind": "layers",
+        "position": {
+          "left": 0,
+          "top": 0
+        },
+        "requestedSize": {
+          "width": {
+            "mode": "fixed",
+            "value": 1280
+          },
+          "height": {
+            "mode": "fixed",
+            "value": 720
+          }
+        },
+        "intrinsicSize": {
+          "width": 1280,
+          "height": 720
+        },
+        "frame": {
+          "left": 0,
+          "top": 0,
+          "width": 1280,
+          "height": 720
+        },
+        "children": [
+          {
+            "path": "0.0",
+            "kind": "shape",
+            "position": {
+              "left": 0,
+              "top": 0
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 1280
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 720
+              }
+            },
+            "intrinsicSize": {
+              "width": 1280,
+              "height": 720
+            },
+            "frame": {
+              "left": 0,
+              "top": 0,
+              "width": 1280,
+              "height": 720
+            },
+            "children": [],
+            "geometry": "rect",
+            "element": {
+              "aid": "sh/upwb2hwf",
+              "id": "1",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.1",
+            "kind": "shape",
+            "position": {
+              "left": 0,
+              "top": 0
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 1280
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 720
+              }
+            },
+            "intrinsicSize": {
+              "width": 1280,
+              "height": 720
+            },
+            "frame": {
+              "left": 0,
+              "top": 0,
+              "width": 1280,
+              "height": 720
+            },
+            "children": [],
+            "geometry": "rect",
+            "element": {
+              "aid": "sh/5gbq1ory",
+              "id": "2",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.2",
+            "kind": "shape",
+            "position": {
+              "left": 58,
+              "top": 48
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 6
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 54
+              }
+            },
+            "intrinsicSize": {
+              "width": 6,
+              "height": 54
+            },
+            "frame": {
+              "left": 58,
+              "top": 48,
+              "width": 6,
+              "height": 54
+            },
+            "children": [],
+            "geometry": "rect",
+            "element": {
+              "aid": "sh/cvixczed",
+              "id": "3",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.3",
+            "kind": "text",
+            "position": {
+              "left": 82,
+              "top": 42
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 850
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 60
+              }
+            },
+            "intrinsicSize": {
+              "width": 850,
+              "height": 60
+            },
+            "frame": {
+              "left": 82,
+              "top": 42,
+              "width": 850,
+              "height": 60
+            },
+            "children": [],
+            "text": "研究方法：比较两种吸积垂直结构",
+            "transform": "none",
+            "element": {
+              "aid": "sh/nyd0z610",
+              "id": "4",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.4",
+            "kind": "text",
+            "position": {
+              "left": 1010,
+              "top": 52
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 210
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 28
+              }
+            },
+            "intrinsicSize": {
+              "width": 210,
+              "height": 28
+            },
+            "frame": {
+              "left": 1010,
+              "top": 52,
+              "width": 210,
+              "height": 28
+            },
+            "children": [],
+            "text": "Fig. 2",
+            "transform": "none",
+            "element": {
+              "aid": "sh/udg7adsj",
+              "id": "5",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.5",
+            "kind": "shape",
+            "position": {
+              "left": 58,
+              "top": 118
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 1164
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 1.5
+              }
+            },
+            "intrinsicSize": {
+              "width": 1164,
+              "height": 1.5
+            },
+            "frame": {
+              "left": 58,
+              "top": 118,
+              "width": 1164,
+              "height": 1.5
+            },
+            "children": [],
+            "geometry": "rect",
+            "element": {
+              "aid": "sh/54zidony",
+              "id": "6",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.6",
+            "kind": "layers",
+            "position": {
+              "left": 66,
+              "top": 156
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 560
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 434
+              }
+            },
+            "intrinsicSize": {
+              "width": 560,
+              "height": 432
+            },
+            "frame": {
+              "left": 66,
+              "top": 156,
+              "width": 560,
+              "height": 434
+            },
+            "children": [
+              {
+                "path": "0.6.0",
+                "kind": "shape",
+                "position": {
+                  "left": 0,
+                  "top": 0
+                },
+                "requestedSize": {
+                  "width": {
+                    "mode": "fixed",
+                    "value": 560
+                  },
+                  "height": {
+                    "mode": "fixed",
+                    "value": 398
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 560,
+                  "height": 398
+                },
+                "frame": {
+                  "left": 66,
+                  "top": 156,
+                  "width": 560,
+                  "height": 398
+                },
+                "children": [],
+                "geometry": "rect",
+                "element": {
+                  "aid": "sh/cj6tovah",
+                  "id": "7",
+                  "kind": "shape"
+                }
+              },
+              {
+                "path": "0.6.1",
+                "kind": "image",
+                "position": {
+                  "left": 10,
+                  "top": 10
+                },
+                "requestedSize": {
+                  "width": {
+                    "mode": "fixed",
+                    "value": 540
+                  },
+                  "height": {
+                    "mode": "fixed",
+                    "value": 378
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 540,
+                  "height": 378
+                },
+                "frame": {
+                  "left": 76,
+                  "top": 166,
+                  "width": 540,
+                  "height": 378
+                },
+                "children": [],
+                "source": {
+                  "kind": "path",
+                  "path": "/Users/neptune/mtianwang.github.io/outputs/manual-20260603-astro-enrichment/presentations/surface-accretion-summary/assets/fig2.png"
+                },
+                "fit": "contain",
+                "element": {
+                  "aid": "im/qtcj6tov",
+                  "id": "8",
+                  "kind": "image"
+                }
+              },
+              {
+                "path": "0.6.2",
+                "kind": "text",
+                "position": {
+                  "left": 8,
+                  "top": 408
+                },
+                "requestedSize": {
+                  "width": {
+                    "mode": "fixed",
+                    "value": 544
+                  },
+                  "height": {
+                    "mode": "fixed",
+                    "value": 24
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 544,
+                  "height": 24
+                },
+                "frame": {
+                  "left": 74,
+                  "top": 564,
+                  "width": 544,
+                  "height": 24
+                },
+                "children": [],
+                "text": "Fig. 2  均匀吸积与表面吸积下气体和尘埃输运的差异",
+                "transform": "none",
+                "element": {
+                  "aid": "sh/u9knih4b",
+                  "id": "9",
+                  "kind": "shape"
+                }
+              }
+            ],
+            "padding": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            },
+            "alignItems": "stretch",
+            "justifyItems": "stretch",
+            "contentFrame": {
+              "left": 66,
+              "top": 156,
+              "width": 560,
+              "height": 434
+            },
+            "items": [
+              {
+                "path": "0.6.0",
+                "frame": {
+                  "left": 66,
+                  "top": 156,
+                  "width": 560,
+                  "height": 398
+                }
+              },
+              {
+                "path": "0.6.1",
+                "frame": {
+                  "left": 76,
+                  "top": 166,
+                  "width": 540,
+                  "height": 378
+                }
+              },
+              {
+                "path": "0.6.2",
+                "frame": {
+                  "left": 74,
+                  "top": 564,
+                  "width": 544,
+                  "height": 24
+                }
+              }
+            ]
+          },
+          {
+            "path": "0.7",
+            "kind": "shape",
+            "position": {
+              "left": 690,
+              "top": 156
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 480
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 398
+              }
+            },
+            "intrinsicSize": {
+              "width": 480,
+              "height": 398
+            },
+            "frame": {
+              "left": 690,
+              "top": 156,
+              "width": 480,
+              "height": 398
+            },
+            "children": [],
+            "geometry": "rect",
+            "element": {
+              "aid": "sh/47y1kre1",
+              "id": "10",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.8",
+            "kind": "text",
+            "position": {
+              "left": 724,
+              "top": 190
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 370
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 34
+              }
+            },
+            "intrinsicSize": {
+              "width": 370,
+              "height": 34
+            },
+            "frame": {
+              "left": 724,
+              "top": 190,
+              "width": 370,
+              "height": 34
+            },
+            "children": [],
+            "text": "一维气体-尘埃-H2O 演化模型",
+            "transform": "none",
+            "element": {
+              "aid": "sh/tsvu9kni",
+              "id": "11",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.9",
+            "kind": "layers",
+            "position": {
+              "left": 724,
+              "top": 252
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 370
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 54
+              }
+            },
+            "intrinsicSize": {
+              "width": 370,
+              "height": 54
+            },
+            "frame": {
+              "left": 724,
+              "top": 252,
+              "width": 370,
+              "height": 54
+            },
+            "children": [
+              {
+                "path": "0.9.0",
+                "kind": "shape",
+                "position": {
+                  "left": 0,
+                  "top": 8
+                },
+                "requestedSize": {
+                  "width": {
+                    "mode": "fixed",
+                    "value": 9
+                  },
+                  "height": {
+                    "mode": "fixed",
+                    "value": 9
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 9,
+                  "height": 9
+                },
+                "frame": {
+                  "left": 724,
+                  "top": 260,
+                  "width": 9,
+                  "height": 9
+                },
+                "children": [],
+                "geometry": "rect",
+                "element": {
+                  "aid": "sh/m1cfa9w3",
+                  "id": "12",
+                  "kind": "shape"
+                }
+              },
+              {
+                "path": "0.9.1",
+                "kind": "text",
+                "position": {
+                  "left": 24,
+                  "top": 0
+                },
+                "requestedSize": {
+                  "width": {
+                    "mode": "fixed",
+                    "value": 346
+                  },
+                  "height": {
+                    "mode": "fixed",
+                    "value": 54
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 346,
+                  "height": 54
+                },
+                "frame": {
+                  "left": 748,
+                  "top": 252,
+                  "width": 346,
+                  "height": 54
+                },
+                "children": [],
+                "text": "同时演化气体、尘埃和 H2O 表面密度。",
+                "transform": "none",
+                "element": {
+                  "aid": "sh/bm58z25k",
+                  "id": "13",
+                  "kind": "shape"
+                }
+              }
+            ],
+            "padding": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            },
+            "alignItems": "stretch",
+            "justifyItems": "stretch",
+            "contentFrame": {
+              "left": 724,
+              "top": 252,
+              "width": 370,
+              "height": 54
+            },
+            "items": [
+              {
+                "path": "0.9.0",
+                "frame": {
+                  "left": 724,
+                  "top": 260,
+                  "width": 9,
+                  "height": 9
+                }
+              },
+              {
+                "path": "0.9.1",
+                "frame": {
+                  "left": 748,
+                  "top": 252,
+                  "width": 346,
+                  "height": 54
+                }
+              }
+            ]
+          },
+          {
+            "path": "0.10",
+            "kind": "layers",
+            "position": {
+              "left": 724,
+              "top": 318
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 370
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 54
+              }
+            },
+            "intrinsicSize": {
+              "width": 370,
+              "height": 54
+            },
+            "frame": {
+              "left": 724,
+              "top": 318,
+              "width": 370,
+              "height": 54
+            },
+            "children": [
+              {
+                "path": "0.10.0",
+                "kind": "shape",
+                "position": {
+                  "left": 0,
+                  "top": 8
+                },
+                "requestedSize": {
+                  "width": {
+                    "mode": "fixed",
+                    "value": 9
+                  },
+                  "height": {
+                    "mode": "fixed",
+                    "value": 9
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 9,
+                  "height": 9
+                },
+                "frame": {
+                  "left": 724,
+                  "top": 326,
+                  "width": 9,
+                  "height": 9
+                },
+                "children": [],
+                "geometry": "rect",
+                "element": {
+                  "aid": "sh/4vmtwra5",
+                  "id": "14",
+                  "kind": "shape"
+                }
+              },
+              {
+                "path": "0.10.1",
+                "kind": "text",
+                "position": {
+                  "left": 24,
+                  "top": 0
+                },
+                "requestedSize": {
+                  "width": {
+                    "mode": "fixed",
+                    "value": 346
+                  },
+                  "height": {
+                    "mode": "fixed",
+                    "value": 54
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 346,
+                  "height": 54
+                },
+                "frame": {
+                  "left": 748,
+                  "top": 318,
+                  "width": 346,
+                  "height": 54
+                },
+                "children": [],
+                "text": "包含径向输运、湍流扩散、尘埃碰撞生长/破碎，以及水冰升华/凝结。",
+                "transform": "none",
+                "element": {
+                  "aid": "sh/tgfmlkjm",
+                  "id": "15",
+                  "kind": "shape"
+                }
+              }
+            ],
+            "padding": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            },
+            "alignItems": "stretch",
+            "justifyItems": "stretch",
+            "contentFrame": {
+              "left": 724,
+              "top": 318,
+              "width": 370,
+              "height": 54
+            },
+            "items": [
+              {
+                "path": "0.10.0",
+                "frame": {
+                  "left": 724,
+                  "top": 326,
+                  "width": 9,
+                  "height": 9
+                }
+              },
+              {
+                "path": "0.10.1",
+                "frame": {
+                  "left": 748,
+                  "top": 318,
+                  "width": 346,
+                  "height": 54
+                }
+              }
+            ]
+          },
+          {
+            "path": "0.11",
+            "kind": "layers",
+            "position": {
+              "left": 724,
+              "top": 400
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 370
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 54
+              }
+            },
+            "intrinsicSize": {
+              "width": 370,
+              "height": 54
+            },
+            "frame": {
+              "left": 724,
+              "top": 400,
+              "width": 370,
+              "height": 54
+            },
+            "children": [
+              {
+                "path": "0.11.0",
+                "kind": "shape",
+                "position": {
+                  "left": 0,
+                  "top": 8
+                },
+                "requestedSize": {
+                  "width": {
+                    "mode": "fixed",
+                    "value": 9
+                  },
+                  "height": {
+                    "mode": "fixed",
+                    "value": 9
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 9,
+                  "height": 9
+                },
+                "frame": {
+                  "left": 724,
+                  "top": 408,
+                  "width": 9,
+                  "height": 9
+                },
+                "children": [],
+                "geometry": "rect",
+                "element": {
+                  "aid": "sh/mp0bi9s3",
+                  "id": "16",
+                  "kind": "shape"
+                }
+              },
+              {
+                "path": "0.11.1",
+                "kind": "text",
+                "position": {
+                  "left": 24,
+                  "top": 0
+                },
+                "requestedSize": {
+                  "width": {
+                    "mode": "fixed",
+                    "value": 346
+                  },
+                  "height": {
+                    "mode": "fixed",
+                    "value": 54
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 346,
+                  "height": 54
+                },
+                "frame": {
+                  "left": 748,
+                  "top": 400,
+                  "width": 346,
+                  "height": 54
+                },
+                "children": [],
+                "text": "基准脆弱冰尘埃：vstick = 0.3 m/s；对照模型使用 1 m/s。",
+                "transform": "none",
+                "element": {
+                  "aid": "sh/bat47y1k",
+                  "id": "17",
+                  "kind": "shape"
+                }
+              }
+            ],
+            "padding": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            },
+            "alignItems": "stretch",
+            "justifyItems": "stretch",
+            "contentFrame": {
+              "left": 724,
+              "top": 400,
+              "width": 370,
+              "height": 54
+            },
+            "items": [
+              {
+                "path": "0.11.0",
+                "frame": {
+                  "left": 724,
+                  "top": 408,
+                  "width": 9,
+                  "height": 9
+                }
+              },
+              {
+                "path": "0.11.1",
+                "frame": {
+                  "left": 748,
+                  "top": 400,
+                  "width": 346,
+                  "height": 54
+                }
+              }
+            ]
+          },
+          {
+            "path": "0.12",
+            "kind": "text",
+            "position": {
+              "left": 724,
+              "top": 488
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 388
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 44
+              }
+            },
+            "intrinsicSize": {
+              "width": 388,
+              "height": 44
+            },
+            "frame": {
+              "left": 724,
+              "top": 488,
+              "width": 388,
+              "height": 44
+            },
+            "children": [],
+            "text": "核心差异：表面吸积移除气体，但难以直接带走沉降到中平面的冰尘埃。",
+            "transform": "none",
+            "element": {
+              "aid": "sh/4nap4r65",
+              "id": "18",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.13",
+            "kind": "text",
+            "position": {
+              "left": 58,
+              "top": 674
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 720
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 24
+              }
+            },
+            "intrinsicSize": {
+              "width": 720,
+              "height": 24
+            },
+            "frame": {
+              "left": 58,
+              "top": 674,
+              "width": 720,
+              "height": 24
+            },
+            "children": [],
+            "text": "Ikeda, Ohno & Okuzumi | Surface-accretion disk enrichment",
+            "transform": "none",
+            "element": {
+              "aid": "sh/t83itgfm",
+              "id": "19",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.14",
+            "kind": "text",
+            "position": {
+              "left": 1170,
+              "top": 674
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 52
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 24
+              }
+            },
+            "intrinsicSize": {
+              "width": 52,
+              "height": 24
+            },
+            "frame": {
+              "left": 1170,
+              "top": 674,
+              "width": 52,
+              "height": 24
+            },
+            "children": [],
+            "text": "04",
+            "transform": "none",
+            "element": {
+              "aid": "sh/xs72x4na",
+              "id": "20",
+              "kind": "shape"
+            }
+          }
+        ],
+        "padding": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "alignItems": "stretch",
+        "justifyItems": "stretch",
+        "contentFrame": {
+          "left": 0,
+          "top": 0,
+          "width": 1280,
+          "height": 720
+        },
+        "items": [
+          {
+            "path": "0.0",
+            "frame": {
+              "left": 0,
+              "top": 0,
+              "width": 1280,
+              "height": 720
+            }
+          },
+          {
+            "path": "0.1",
+            "frame": {
+              "left": 0,
+              "top": 0,
+              "width": 1280,
+              "height": 720
+            }
+          },
+          {
+            "path": "0.2",
+            "frame": {
+              "left": 58,
+              "top": 48,
+              "width": 6,
+              "height": 54
+            }
+          },
+          {
+            "path": "0.3",
+            "frame": {
+              "left": 82,
+              "top": 42,
+              "width": 850,
+              "height": 60
+            }
+          },
+          {
+            "path": "0.4",
+            "frame": {
+              "left": 1010,
+              "top": 52,
+              "width": 210,
+              "height": 28
+            }
+          },
+          {
+            "path": "0.5",
+            "frame": {
+              "left": 58,
+              "top": 118,
+              "width": 1164,
+              "height": 1.5
+            }
+          },
+          {
+            "path": "0.6",
+            "frame": {
+              "left": 66,
+              "top": 156,
+              "width": 560,
+              "height": 434
+            }
+          },
+          {
+            "path": "0.7",
+            "frame": {
+              "left": 690,
+              "top": 156,
+              "width": 480,
+              "height": 398
+            }
+          },
+          {
+            "path": "0.8",
+            "frame": {
+              "left": 724,
+              "top": 190,
+              "width": 370,
+              "height": 34
+            }
+          },
+          {
+            "path": "0.9",
+            "frame": {
+              "left": 724,
+              "top": 252,
+              "width": 370,
+              "height": 54
+            }
+          },
+          {
+            "path": "0.10",
+            "frame": {
+              "left": 724,
+              "top": 318,
+              "width": 370,
+              "height": 54
+            }
+          },
+          {
+            "path": "0.11",
+            "frame": {
+              "left": 724,
+              "top": 400,
+              "width": 370,
+              "height": 54
+            }
+          },
+          {
+            "path": "0.12",
+            "frame": {
+              "left": 724,
+              "top": 488,
+              "width": 388,
+              "height": 44
+            }
+          },
+          {
+            "path": "0.13",
+            "frame": {
+              "left": 58,
+              "top": 674,
+              "width": 720,
+              "height": 24
+            }
+          },
+          {
+            "path": "0.14",
+            "frame": {
+              "left": 1170,
+              "top": 674,
+              "width": 52,
+              "height": 24
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

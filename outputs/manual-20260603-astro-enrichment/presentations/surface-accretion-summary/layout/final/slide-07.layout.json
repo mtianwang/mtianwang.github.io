@@ -1,0 +1,4134 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/txrc3g",
+    "id": "txrc3g",
+    "slide": 7,
+    "layoutId": "022543a9-0110-463e-88d8-f3040e74a77f",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "c42b9d40-480b-4d41-8958-864630e0d074",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Arial"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "022543a9-0110-463e-88d8-f3040e74a77f",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "c42b9d40-480b-4d41-8958-864630e0d074",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "c42b9d40-480b-4d41-8958-864630e0d074",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hgn29gr2",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.23"
+      },
+      "geometry": "rect",
+      "fillColor": "#07111F"
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ap4r65wj",
+      "id": "2",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.22"
+      },
+      "geometry": "rect",
+      "fillColor": "#0B1726"
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/za1gvy90",
+      "id": "3",
+      "bbox": [
+        58,
+        48,
+        6,
+        54
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.21"
+      },
+      "geometry": "rect",
+      "fillColor": "#3DD6D0"
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/s36hcrmh",
+      "id": "4",
+      "bbox": [
+        82,
+        42,
+        850,
+        60
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.20.1"
+      },
+      "geometry": "rect",
+      "text": "科学意义：把盘吸积结构、尘埃物理和行星大气连接起来",
+      "textPreview": "科学意义：把盘吸积结构、尘埃物理和行星大气连接起来",
+      "resolvedFontSize": 32,
+      "resolvedTextStyle": {
+        "fontSize": 32,
+        "typeface": "Arial",
+        "color": "#EEF6FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "科学意义：把盘吸积结构、尘埃物理和行星大气连接起来"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "科学意义：把盘吸积结构、尘埃物理和行星大气连接起来",
+          "resolvedTextStyle": {
+            "fontSize": 32,
+            "typeface": "Arial",
+            "color": "#EEF6FF",
+            "bold": true,
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "科学意义：把盘吸积结构、尘埃物理和行星大气连接起来",
+              "fontSize": 32,
+              "typeface": "Arial",
+              "color": "#EEF6FF",
+              "bold": true,
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hoza1gvy",
+      "id": "5",
+      "bbox": [
+        1010,
+        52,
+        210,
+        28
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.20.0"
+      },
+      "geometry": "rect",
+      "text": "讨论",
+      "textPreview": "讨论",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "Arial",
+        "color": "#9FB4C8",
+        "alignment": "right",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "讨论"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "讨论",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "Arial",
+            "color": "#9FB4C8",
+            "alignment": "right",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "讨论",
+              "fontSize": 13,
+              "typeface": "Arial",
+              "color": "#9FB4C8",
+              "alignment": "right",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a1gvy90j",
+      "id": "6",
+      "bbox": [
+        58,
+        118,
+        1164,
+        1.5
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.19.1"
+      },
+      "geometry": "rect",
+      "fillColor": "#254057"
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zidonyd0",
+      "id": "7",
+      "bbox": [
+        70,
+        166,
+        342,
+        376
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.19.0"
+      },
+      "geometry": "roundRect",
+      "fillColor": "#0F2133"
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/s72x4nap",
+      "id": "8",
+      "bbox": [
+        112,
+        204,
+        156,
+        34
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.7.0"
+      },
+      "geometry": "roundRect",
+      "fillColor": "#3DD6D0"
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lszqtcj6",
+      "id": "9",
+      "bbox": [
+        124,
+        211,
+        132,
+        20
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.7.1"
+      },
+      "geometry": "rect",
+      "text": "新解释路径",
+      "textPreview": "新解释路径",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "Arial",
+        "color": "#06111D",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "新解释路径"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "新解释路径",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "Arial",
+            "color": "#06111D",
+            "bold": true,
+            "alignment": "center",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "新解释路径",
+              "fontSize": 13,
+              "typeface": "Arial",
+              "color": "#06111D",
+              "bold": true,
+              "alignment": "center",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h0fepkzu",
+      "id": "10",
+      "bbox": [
+        112,
+        286,
+        9,
+        9
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.8.0"
+      },
+      "geometry": "roundRect",
+      "fillColor": "#3DD6D0"
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sfil0rqd",
+      "id": "11",
+      "bbox": [
+        136,
+        278,
+        218,
+        54
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.8.1"
+      },
+      "geometry": "rect",
+      "text": "不再要求冰质卵石必须快速漂移。",
+      "textPreview": "不再要求冰质卵石必须快速漂移。",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Arial",
+        "color": "#EEF6FF",
+        "alignment": "left",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "不再要求冰质卵石必须"
+          },
+          {
+            "index": 2,
+            "text": "快速漂移。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "不再要求冰质卵石必须快速漂移。",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Arial",
+            "color": "#EEF6FF",
+            "alignment": "left",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "不再要求冰质卵石必须快速漂移。",
+              "fontSize": 20,
+              "typeface": "Arial",
+              "color": "#EEF6FF",
+              "alignment": "left",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zupwb2hw",
+      "id": "12",
+      "bbox": [
+        112,
+        362,
+        9,
+        9
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.9.0"
+      },
+      "geometry": "roundRect",
+      "fillColor": "#3DD6D0"
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a9w3m94f",
+      "id": "13",
+      "bbox": [
+        136,
+        354,
+        218,
+        54
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.9.1"
+      },
+      "geometry": "rect",
+      "text": "MHD 风驱动表面吸积可自然造成气体与固体分馏。",
+      "textPreview": "MHD 风驱动表面吸积可自然造成气体与固体分馏。",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Arial",
+        "color": "#EEF6FF",
+        "alignment": "left",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "MHD"
+          },
+          {
+            "index": 2,
+            "text": "风驱动表面吸积可自然"
+          },
+          {
+            "index": 3,
+            "text": "造成气体与固体分馏。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "MHD 风驱动表面吸积可自然造成气体与固体分馏。",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Arial",
+            "color": "#EEF6FF",
+            "alignment": "left",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "MHD 风驱动表面吸积可自然造成气体与固体分馏。",
+              "fontSize": 20,
+              "typeface": "Arial",
+              "color": "#EEF6FF",
+              "alignment": "left",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hcrmhk3q",
+      "id": "14",
+      "bbox": [
+        112,
+        452,
+        9,
+        9
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.10.0"
+      },
+      "geometry": "roundRect",
+      "fillColor": "#3DD6D0"
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/orytsvu9",
+      "id": "15",
+      "bbox": [
+        136,
+        444,
+        218,
+        54
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.10.1"
+      },
+      "geometry": "rect",
+      "text": "内盘富水汽气体为巨行星大气高金属丰度提供来源。",
+      "textPreview": "内盘富水汽气体为巨行星大气高金属丰度提供来源。",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Arial",
+        "color": "#EEF6FF",
+        "alignment": "left",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "内盘富水汽气体为巨行"
+          },
+          {
+            "index": 2,
+            "text": "星大气高金属丰度提供"
+          },
+          {
+            "index": 3,
+            "text": "来源。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "内盘富水汽气体为巨行星大气高金属丰度提供来源。",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Arial",
+            "color": "#EEF6FF",
+            "alignment": "left",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "内盘富水汽气体为巨行星大气高金属丰度提供来源。",
+              "fontSize": 20,
+              "typeface": "Arial",
+              "color": "#EEF6FF",
+              "alignment": "left",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/z61032ls",
+      "id": "16",
+      "bbox": [
+        470,
+        166,
+        342,
+        376
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.11"
+      },
+      "geometry": "roundRect",
+      "fillColor": "#13283E"
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/al87ed8b",
+      "id": "17",
+      "bbox": [
+        512,
+        204,
+        156,
+        34
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.12.0"
+      },
+      "geometry": "roundRect",
+      "fillColor": "#F4C95D"
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hk3q5o7q",
+      "id": "18",
+      "bbox": [
+        524,
+        211,
+        132,
+        20
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.12.1"
+      },
+      "geometry": "rect",
+      "text": "观测联系",
+      "textPreview": "观测联系",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "Arial",
+        "color": "#06111D",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "观测联系"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "观测联系",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "Arial",
+            "color": "#06111D",
+            "bold": true,
+            "alignment": "center",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "观测联系",
+              "fontSize": 13,
+              "typeface": "Arial",
+              "color": "#06111D",
+              "bold": true,
+              "alignment": "center",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/oza1gvy9",
+      "id": "19",
+      "bbox": [
+        512,
+        286,
+        9,
+        9
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.13.0"
+      },
+      "geometry": "roundRect",
+      "fillColor": "#F4C95D"
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kf6dcbul",
+      "id": "20",
+      "bbox": [
+        536,
+        278,
+        218,
+        54
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.13.1"
+      },
+      "geometry": "rect",
+      "text": "解释低质量气态行星更高氧丰度/金属丰度的定性趋势。",
+      "textPreview": "解释低质量气态行星更高氧丰度/金属丰度的定性趋势。",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Arial",
+        "color": "#EEF6FF",
+        "alignment": "left",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "解释低质量气态行星更"
+          },
+          {
+            "index": 2,
+            "text": "高氧丰度/金属丰度的定"
+          },
+          {
+            "index": 3,
+            "text": "性趋势。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "解释低质量气态行星更高氧丰度/金属丰度的定性趋势。",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Arial",
+            "color": "#EEF6FF",
+            "alignment": "left",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "解释低质量气态行星更高氧丰度/金属丰度的定性趋势。",
+              "fontSize": 20,
+              "typeface": "Arial",
+              "color": "#EEF6FF",
+              "alignment": "left",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d0z61032",
+      "id": "21",
+      "bbox": [
+        512,
+        376,
+        9,
+        9
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.14.0"
+      },
+      "geometry": "roundRect",
+      "fillColor": "#F4C95D"
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/29gr2p8n",
+      "id": "22",
+      "bbox": [
+        536,
+        368,
+        218,
+        54
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.14.1"
+      },
+      "geometry": "rect",
+      "text": "JWST 内盘分子谱线观测可检验水汽富集与卵石漂移迹象。",
+      "textPreview": "JWST 内盘分子谱线观测可检验水汽富集与卵石漂移迹象。",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Arial",
+        "color": "#EEF6FF",
+        "alignment": "left",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "JWST"
+          },
+          {
+            "index": 2,
+            "text": "内盘分子谱线观测可检"
+          },
+          {
+            "index": 3,
+            "text": "验水汽富集与卵石漂移"
+          },
+          {
+            "index": 4,
+            "text": "迹象。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "JWST 内盘分子谱线观测可检验水汽富集与卵石漂移迹象。",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Arial",
+            "color": "#EEF6FF",
+            "alignment": "left",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "JWST 内盘分子谱线观测可检验水汽富集与卵石漂移迹象。",
+              "fontSize": 20,
+              "typeface": "Arial",
+              "color": "#EEF6FF",
+              "alignment": "left",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vu9knih4",
+      "id": "23",
+      "bbox": [
+        512,
+        466,
+        9,
+        9
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.15.0"
+      },
+      "geometry": "roundRect",
+      "fillColor": "#F4C95D"
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/knih4byh",
+      "id": "24",
+      "bbox": [
+        536,
+        458,
+        218,
+        54
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.15.1"
+      },
+      "geometry": "rect",
+      "text": "盘环隙、尘埃陷阱会改变冰尘埃供应，需要纳入比较。",
+      "textPreview": "盘环隙、尘埃陷阱会改变冰尘埃供应，需要纳入比较。",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Arial",
+        "color": "#EEF6FF",
+        "alignment": "left",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "盘环隙、尘埃陷阱会改"
+          },
+          {
+            "index": 2,
+            "text": "变冰尘埃供应，需要纳"
+          },
+          {
+            "index": 3,
+            "text": "入比较。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "盘环隙、尘埃陷阱会改变冰尘埃供应，需要纳入比较。",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Arial",
+            "color": "#EEF6FF",
+            "alignment": "left",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "盘环隙、尘埃陷阱会改变冰尘埃供应，需要纳入比较。",
+              "fontSize": 20,
+              "typeface": "Arial",
+              "color": "#EEF6FF",
+              "alignment": "left",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d8bat47y",
+      "id": "25",
+      "bbox": [
+        870,
+        166,
+        342,
+        376
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.16"
+      },
+      "geometry": "roundRect",
+      "fillColor": "#0F2133"
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2lszqtcj",
+      "id": "26",
+      "bbox": [
+        912,
+        204,
+        156,
+        34
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.17.0"
+      },
+      "geometry": "roundRect",
+      "fillColor": "#F27F6B"
+    },
+    {
+      "order": 27,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/v6psfil0",
+      "id": "27",
+      "bbox": [
+        924,
+        211,
+        132,
+        20
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.17.1"
+      },
+      "geometry": "rect",
+      "text": "理论下一步",
+      "textPreview": "理论下一步",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "Arial",
+        "color": "#06111D",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "理论下一步"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "理论下一步",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "Arial",
+            "color": "#06111D",
+            "bold": true,
+            "alignment": "center",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "理论下一步",
+              "fontSize": 13,
+              "typeface": "Arial",
+              "color": "#06111D",
+              "bold": true,
+              "alignment": "center",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 28,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kre1w7mp",
+      "id": "28",
+      "bbox": [
+        912,
+        286,
+        9,
+        9
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.18.0"
+      },
+      "geometry": "roundRect",
+      "fillColor": "#F27F6B"
+    },
+    {
+      "order": 29,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dcbulwva",
+      "id": "29",
+      "bbox": [
+        936,
+        278,
+        218,
+        54
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.18.1"
+      },
+      "geometry": "rect",
+      "text": "把该盘化学富集模型接入行星形成与气体吸积计算。",
+      "textPreview": "把该盘化学富集模型接入行星形成与气体吸积计算。",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Arial",
+        "color": "#EEF6FF",
+        "alignment": "left",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "把该盘化学富集模型接"
+          },
+          {
+            "index": 2,
+            "text": "入行星形成与气体吸积"
+          },
+          {
+            "index": 3,
+            "text": "计算。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "把该盘化学富集模型接入行星形成与气体吸积计算。",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Arial",
+            "color": "#EEF6FF",
+            "alignment": "left",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "把该盘化学富集模型接入行星形成与气体吸积计算。",
+              "fontSize": 20,
+              "typeface": "Arial",
+              "color": "#EEF6FF",
+              "alignment": "left",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 30,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zidonyd0",
+      "id": "30",
+      "bbox": [
+        912,
+        376,
+        9,
+        9
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.19.0"
+      },
+      "geometry": "roundRect",
+      "fillColor": "#F27F6B"
+    },
+    {
+      "order": 31,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a1gvy90j",
+      "id": "31",
+      "bbox": [
+        936,
+        368,
+        218,
+        54
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.19.1"
+      },
+      "geometry": "rect",
+      "text": "处理红外观测主要追踪盘表层、而尘埃富集发生在中平面的差异。",
+      "textPreview": "处理红外观测主要追踪盘表层、而尘埃富集发生在中平面的差异。",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Arial",
+        "color": "#EEF6FF",
+        "alignment": "left",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "处理红外观测主要追踪"
+          },
+          {
+            "index": 2,
+            "text": "盘表层、而尘埃富集发"
+          },
+          {
+            "index": 3,
+            "text": "生在中平面的差异。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "处理红外观测主要追踪盘表层、而尘埃富集发生在中平面的差异。",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Arial",
+            "color": "#EEF6FF",
+            "alignment": "left",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "处理红外观测主要追踪盘表层、而尘埃富集发生在中平面的差异。",
+              "fontSize": 20,
+              "typeface": "Arial",
+              "color": "#EEF6FF",
+              "alignment": "left",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 32,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hoza1gvy",
+      "id": "32",
+      "bbox": [
+        912,
+        476,
+        9,
+        9
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.20.0"
+      },
+      "geometry": "roundRect",
+      "fillColor": "#F27F6B"
+    },
+    {
+      "order": 33,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/s36hcrmh",
+      "id": "33",
+      "bbox": [
+        936,
+        468,
+        218,
+        54
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.20.1"
+      },
+      "geometry": "rect",
+      "text": "定量检验是否能复现实测质量-金属丰度斜率和离散度。",
+      "textPreview": "定量检验是否能复现实测质量-金属丰度斜率和离散度。",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Arial",
+        "color": "#EEF6FF",
+        "alignment": "left",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "定量检验是否能复现实"
+          },
+          {
+            "index": 2,
+            "text": "测质量-金属丰度斜率和"
+          },
+          {
+            "index": 3,
+            "text": "离散度。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "定量检验是否能复现实测质量-金属丰度斜率和离散度。",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Arial",
+            "color": "#EEF6FF",
+            "alignment": "left",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "定量检验是否能复现实测质量-金属丰度斜率和离散度。",
+              "fontSize": 20,
+              "typeface": "Arial",
+              "color": "#EEF6FF",
+              "alignment": "left",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 34,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/za1gvy90",
+      "id": "34",
+      "bbox": [
+        118,
+        596,
+        1040,
+        42
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.21"
+      },
+      "geometry": "rect",
+      "text": "一句话结论：表面吸积让“脆弱慢漂移冰尘埃”成为内盘重元素富集的有效来源。",
+      "textPreview": "一句话结论：表面吸积让“脆弱慢漂移冰尘埃”成为内盘重元素富集的有效来源。",
+      "resolvedFontSize": 26,
+      "resolvedTextStyle": {
+        "fontSize": 26,
+        "typeface": "Arial",
+        "color": "#EEF6FF",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "一句话结论：表面吸积让“脆弱慢漂移冰尘埃”成为内盘重元素富集的有效来源。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "一句话结论：表面吸积让“脆弱慢漂移冰尘埃”成为内盘重元素富集的有效来源。",
+          "resolvedTextStyle": {
+            "fontSize": 26,
+            "typeface": "Arial",
+            "color": "#EEF6FF",
+            "bold": true,
+            "alignment": "center",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "一句话结论：表面吸积让“脆弱慢漂移冰尘埃”成为内盘重元素富集的有效来源。",
+              "fontSize": 26,
+              "typeface": "Arial",
+              "color": "#EEF6FF",
+              "bold": true,
+              "alignment": "center",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 35,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ap4r65wj",
+      "id": "35",
+      "bbox": [
+        58,
+        674,
+        720,
+        24
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.22"
+      },
+      "geometry": "rect",
+      "text": "Ikeda, Ohno & Okuzumi | Surface-accretion disk enrichment",
+      "textPreview": "Ikeda, Ohno & Okuzumi | Surface-accretion disk enrichment",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Arial",
+        "color": "#6E8398",
+        "alignment": "left",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Ikeda, Ohno & Okuzumi | Surface-accretion disk enrichment"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Ikeda, Ohno & Okuzumi | Surface-accretion disk enrichment",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Arial",
+            "color": "#6E8398",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Ikeda, Ohno & Okuzumi | Surface-accretion disk enrichment",
+              "fontSize": 12,
+              "typeface": "Arial",
+              "color": "#6E8398",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 36,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hgn29gr2",
+      "id": "36",
+      "bbox": [
+        1170,
+        674,
+        52,
+        24
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.23"
+      },
+      "geometry": "rect",
+      "text": "07",
+      "textPreview": "07",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Arial",
+        "color": "#6E8398",
+        "alignment": "right",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "07"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "07",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Arial",
+            "color": "#6E8398",
+            "alignment": "right",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "07",
+              "fontSize": 12,
+              "typeface": "Arial",
+              "color": "#6E8398",
+              "alignment": "right",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    }
+  ],
+  "composeRuns": [
+    {
+      "index": 1,
+      "frame": {
+        "left": 0,
+        "top": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "root": {
+        "path": "0",
+        "kind": "layers",
+        "position": {
+          "left": 0,
+          "top": 0
+        },
+        "requestedSize": {
+          "width": {
+            "mode": "fixed",
+            "value": 1280
+          },
+          "height": {
+            "mode": "fixed",
+            "value": 720
+          }
+        },
+        "intrinsicSize": {
+          "width": 1280,
+          "height": 720
+        },
+        "frame": {
+          "left": 0,
+          "top": 0,
+          "width": 1280,
+          "height": 720
+        },
+        "children": [
+          {
+            "path": "0.0",
+            "kind": "shape",
+            "position": {
+              "left": 0,
+              "top": 0
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 1280
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 720
+              }
+            },
+            "intrinsicSize": {
+              "width": 1280,
+              "height": 720
+            },
+            "frame": {
+              "left": 0,
+              "top": 0,
+              "width": 1280,
+              "height": 720
+            },
+            "children": [],
+            "geometry": "rect",
+            "element": {
+              "aid": "sh/hgn29gr2",
+              "id": "1",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.1",
+            "kind": "shape",
+            "position": {
+              "left": 0,
+              "top": 0
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 1280
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 720
+              }
+            },
+            "intrinsicSize": {
+              "width": 1280,
+              "height": 720
+            },
+            "frame": {
+              "left": 0,
+              "top": 0,
+              "width": 1280,
+              "height": 720
+            },
+            "children": [],
+            "geometry": "rect",
+            "element": {
+              "aid": "sh/ap4r65wj",
+              "id": "2",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.2",
+            "kind": "shape",
+            "position": {
+              "left": 58,
+              "top": 48
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 6
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 54
+              }
+            },
+            "intrinsicSize": {
+              "width": 6,
+              "height": 54
+            },
+            "frame": {
+              "left": 58,
+              "top": 48,
+              "width": 6,
+              "height": 54
+            },
+            "children": [],
+            "geometry": "rect",
+            "element": {
+              "aid": "sh/za1gvy90",
+              "id": "3",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.3",
+            "kind": "text",
+            "position": {
+              "left": 82,
+              "top": 42
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 850
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 60
+              }
+            },
+            "intrinsicSize": {
+              "width": 850,
+              "height": 60
+            },
+            "frame": {
+              "left": 82,
+              "top": 42,
+              "width": 850,
+              "height": 60
+            },
+            "children": [],
+            "text": "科学意义：把盘吸积结构、尘埃物理和行星大气连接起来",
+            "transform": "none",
+            "element": {
+              "aid": "sh/s36hcrmh",
+              "id": "4",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.4",
+            "kind": "text",
+            "position": {
+              "left": 1010,
+              "top": 52
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 210
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 28
+              }
+            },
+            "intrinsicSize": {
+              "width": 210,
+              "height": 28
+            },
+            "frame": {
+              "left": 1010,
+              "top": 52,
+              "width": 210,
+              "height": 28
+            },
+            "children": [],
+            "text": "讨论",
+            "transform": "none",
+            "element": {
+              "aid": "sh/hoza1gvy",
+              "id": "5",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.5",
+            "kind": "shape",
+            "position": {
+              "left": 58,
+              "top": 118
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 1164
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 1.5
+              }
+            },
+            "intrinsicSize": {
+              "width": 1164,
+              "height": 1.5
+            },
+            "frame": {
+              "left": 58,
+              "top": 118,
+              "width": 1164,
+              "height": 1.5
+            },
+            "children": [],
+            "geometry": "rect",
+            "element": {
+              "aid": "sh/a1gvy90j",
+              "id": "6",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.6",
+            "kind": "shape",
+            "position": {
+              "left": 70,
+              "top": 166
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 342
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 376
+              }
+            },
+            "intrinsicSize": {
+              "width": 342,
+              "height": 376
+            },
+            "frame": {
+              "left": 70,
+              "top": 166,
+              "width": 342,
+              "height": 376
+            },
+            "children": [],
+            "geometry": "rect",
+            "element": {
+              "aid": "sh/zidonyd0",
+              "id": "7",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.7",
+            "kind": "layers",
+            "position": {
+              "left": 112,
+              "top": 204
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 156
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 34
+              }
+            },
+            "intrinsicSize": {
+              "width": 156,
+              "height": 34
+            },
+            "frame": {
+              "left": 112,
+              "top": 204,
+              "width": 156,
+              "height": 34
+            },
+            "children": [
+              {
+                "path": "0.7.0",
+                "kind": "shape",
+                "position": {
+                  "left": 0,
+                  "top": 0
+                },
+                "requestedSize": {
+                  "width": {
+                    "mode": "fixed",
+                    "value": 156
+                  },
+                  "height": {
+                    "mode": "fixed",
+                    "value": 34
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 156,
+                  "height": 34
+                },
+                "frame": {
+                  "left": 112,
+                  "top": 204,
+                  "width": 156,
+                  "height": 34
+                },
+                "children": [],
+                "geometry": "rect",
+                "element": {
+                  "aid": "sh/s72x4nap",
+                  "id": "8",
+                  "kind": "shape"
+                }
+              },
+              {
+                "path": "0.7.1",
+                "kind": "text",
+                "position": {
+                  "left": 12,
+                  "top": 7
+                },
+                "requestedSize": {
+                  "width": {
+                    "mode": "fixed",
+                    "value": 132
+                  },
+                  "height": {
+                    "mode": "fixed",
+                    "value": 20
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 132,
+                  "height": 20
+                },
+                "frame": {
+                  "left": 124,
+                  "top": 211,
+                  "width": 132,
+                  "height": 20
+                },
+                "children": [],
+                "text": "新解释路径",
+                "transform": "none",
+                "element": {
+                  "aid": "sh/lszqtcj6",
+                  "id": "9",
+                  "kind": "shape"
+                }
+              }
+            ],
+            "padding": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            },
+            "alignItems": "stretch",
+            "justifyItems": "stretch",
+            "contentFrame": {
+              "left": 112,
+              "top": 204,
+              "width": 156,
+              "height": 34
+            },
+            "items": [
+              {
+                "path": "0.7.0",
+                "frame": {
+                  "left": 112,
+                  "top": 204,
+                  "width": 156,
+                  "height": 34
+                }
+              },
+              {
+                "path": "0.7.1",
+                "frame": {
+                  "left": 124,
+                  "top": 211,
+                  "width": 132,
+                  "height": 20
+                }
+              }
+            ]
+          },
+          {
+            "path": "0.8",
+            "kind": "layers",
+            "position": {
+              "left": 112,
+              "top": 278
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 242
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 54
+              }
+            },
+            "intrinsicSize": {
+              "width": 242,
+              "height": 54
+            },
+            "frame": {
+              "left": 112,
+              "top": 278,
+              "width": 242,
+              "height": 54
+            },
+            "children": [
+              {
+                "path": "0.8.0",
+                "kind": "shape",
+                "position": {
+                  "left": 0,
+                  "top": 8
+                },
+                "requestedSize": {
+                  "width": {
+                    "mode": "fixed",
+                    "value": 9
+                  },
+                  "height": {
+                    "mode": "fixed",
+                    "value": 9
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 9,
+                  "height": 9
+                },
+                "frame": {
+                  "left": 112,
+                  "top": 286,
+                  "width": 9,
+                  "height": 9
+                },
+                "children": [],
+                "geometry": "rect",
+                "element": {
+                  "aid": "sh/h0fepkzu",
+                  "id": "10",
+                  "kind": "shape"
+                }
+              },
+              {
+                "path": "0.8.1",
+                "kind": "text",
+                "position": {
+                  "left": 24,
+                  "top": 0
+                },
+                "requestedSize": {
+                  "width": {
+                    "mode": "fixed",
+                    "value": 218
+                  },
+                  "height": {
+                    "mode": "fixed",
+                    "value": 54
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 218,
+                  "height": 54
+                },
+                "frame": {
+                  "left": 136,
+                  "top": 278,
+                  "width": 218,
+                  "height": 54
+                },
+                "children": [],
+                "text": "不再要求冰质卵石必须快速漂移。",
+                "transform": "none",
+                "element": {
+                  "aid": "sh/sfil0rqd",
+                  "id": "11",
+                  "kind": "shape"
+                }
+              }
+            ],
+            "padding": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            },
+            "alignItems": "stretch",
+            "justifyItems": "stretch",
+            "contentFrame": {
+              "left": 112,
+              "top": 278,
+              "width": 242,
+              "height": 54
+            },
+            "items": [
+              {
+                "path": "0.8.0",
+                "frame": {
+                  "left": 112,
+                  "top": 286,
+                  "width": 9,
+                  "height": 9
+                }
+              },
+              {
+                "path": "0.8.1",
+                "frame": {
+                  "left": 136,
+                  "top": 278,
+                  "width": 218,
+                  "height": 54
+                }
+              }
+            ]
+          },
+          {
+            "path": "0.9",
+            "kind": "layers",
+            "position": {
+              "left": 112,
+              "top": 354
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 242
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 54
+              }
+            },
+            "intrinsicSize": {
+              "width": 242,
+              "height": 54
+            },
+            "frame": {
+              "left": 112,
+              "top": 354,
+              "width": 242,
+              "height": 54
+            },
+            "children": [
+              {
+                "path": "0.9.0",
+                "kind": "shape",
+                "position": {
+                  "left": 0,
+                  "top": 8
+                },
+                "requestedSize": {
+                  "width": {
+                    "mode": "fixed",
+                    "value": 9
+                  },
+                  "height": {
+                    "mode": "fixed",
+                    "value": 9
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 9,
+                  "height": 9
+                },
+                "frame": {
+                  "left": 112,
+                  "top": 362,
+                  "width": 9,
+                  "height": 9
+                },
+                "children": [],
+                "geometry": "rect",
+                "element": {
+                  "aid": "sh/zupwb2hw",
+                  "id": "12",
+                  "kind": "shape"
+                }
+              },
+              {
+                "path": "0.9.1",
+                "kind": "text",
+                "position": {
+                  "left": 24,
+                  "top": 0
+                },
+                "requestedSize": {
+                  "width": {
+                    "mode": "fixed",
+                    "value": 218
+                  },
+                  "height": {
+                    "mode": "fixed",
+                    "value": 54
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 218,
+                  "height": 54
+                },
+                "frame": {
+                  "left": 136,
+                  "top": 354,
+                  "width": 218,
+                  "height": 54
+                },
+                "children": [],
+                "text": "MHD 风驱动表面吸积可自然造成气体与固体分馏。",
+                "transform": "none",
+                "element": {
+                  "aid": "sh/a9w3m94f",
+                  "id": "13",
+                  "kind": "shape"
+                }
+              }
+            ],
+            "padding": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            },
+            "alignItems": "stretch",
+            "justifyItems": "stretch",
+            "contentFrame": {
+              "left": 112,
+              "top": 354,
+              "width": 242,
+              "height": 54
+            },
+            "items": [
+              {
+                "path": "0.9.0",
+                "frame": {
+                  "left": 112,
+                  "top": 362,
+                  "width": 9,
+                  "height": 9
+                }
+              },
+              {
+                "path": "0.9.1",
+                "frame": {
+                  "left": 136,
+                  "top": 354,
+                  "width": 218,
+                  "height": 54
+                }
+              }
+            ]
+          },
+          {
+            "path": "0.10",
+            "kind": "layers",
+            "position": {
+              "left": 112,
+              "top": 444
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 242
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 54
+              }
+            },
+            "intrinsicSize": {
+              "width": 242,
+              "height": 54
+            },
+            "frame": {
+              "left": 112,
+              "top": 444,
+              "width": 242,
+              "height": 54
+            },
+            "children": [
+              {
+                "path": "0.10.0",
+                "kind": "shape",
+                "position": {
+                  "left": 0,
+                  "top": 8
+                },
+                "requestedSize": {
+                  "width": {
+                    "mode": "fixed",
+                    "value": 9
+                  },
+                  "height": {
+                    "mode": "fixed",
+                    "value": 9
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 9,
+                  "height": 9
+                },
+                "frame": {
+                  "left": 112,
+                  "top": 452,
+                  "width": 9,
+                  "height": 9
+                },
+                "children": [],
+                "geometry": "rect",
+                "element": {
+                  "aid": "sh/hcrmhk3q",
+                  "id": "14",
+                  "kind": "shape"
+                }
+              },
+              {
+                "path": "0.10.1",
+                "kind": "text",
+                "position": {
+                  "left": 24,
+                  "top": 0
+                },
+                "requestedSize": {
+                  "width": {
+                    "mode": "fixed",
+                    "value": 218
+                  },
+                  "height": {
+                    "mode": "fixed",
+                    "value": 54
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 218,
+                  "height": 54
+                },
+                "frame": {
+                  "left": 136,
+                  "top": 444,
+                  "width": 218,
+                  "height": 54
+                },
+                "children": [],
+                "text": "内盘富水汽气体为巨行星大气高金属丰度提供来源。",
+                "transform": "none",
+                "element": {
+                  "aid": "sh/orytsvu9",
+                  "id": "15",
+                  "kind": "shape"
+                }
+              }
+            ],
+            "padding": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            },
+            "alignItems": "stretch",
+            "justifyItems": "stretch",
+            "contentFrame": {
+              "left": 112,
+              "top": 444,
+              "width": 242,
+              "height": 54
+            },
+            "items": [
+              {
+                "path": "0.10.0",
+                "frame": {
+                  "left": 112,
+                  "top": 452,
+                  "width": 9,
+                  "height": 9
+                }
+              },
+              {
+                "path": "0.10.1",
+                "frame": {
+                  "left": 136,
+                  "top": 444,
+                  "width": 218,
+                  "height": 54
+                }
+              }
+            ]
+          },
+          {
+            "path": "0.11",
+            "kind": "shape",
+            "position": {
+              "left": 470,
+              "top": 166
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 342
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 376
+              }
+            },
+            "intrinsicSize": {
+              "width": 342,
+              "height": 376
+            },
+            "frame": {
+              "left": 470,
+              "top": 166,
+              "width": 342,
+              "height": 376
+            },
+            "children": [],
+            "geometry": "rect",
+            "element": {
+              "aid": "sh/z61032ls",
+              "id": "16",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.12",
+            "kind": "layers",
+            "position": {
+              "left": 512,
+              "top": 204
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 156
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 34
+              }
+            },
+            "intrinsicSize": {
+              "width": 156,
+              "height": 34
+            },
+            "frame": {
+              "left": 512,
+              "top": 204,
+              "width": 156,
+              "height": 34
+            },
+            "children": [
+              {
+                "path": "0.12.0",
+                "kind": "shape",
+                "position": {
+                  "left": 0,
+                  "top": 0
+                },
+                "requestedSize": {
+                  "width": {
+                    "mode": "fixed",
+                    "value": 156
+                  },
+                  "height": {
+                    "mode": "fixed",
+                    "value": 34
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 156,
+                  "height": 34
+                },
+                "frame": {
+                  "left": 512,
+                  "top": 204,
+                  "width": 156,
+                  "height": 34
+                },
+                "children": [],
+                "geometry": "rect",
+                "element": {
+                  "aid": "sh/al87ed8b",
+                  "id": "17",
+                  "kind": "shape"
+                }
+              },
+              {
+                "path": "0.12.1",
+                "kind": "text",
+                "position": {
+                  "left": 12,
+                  "top": 7
+                },
+                "requestedSize": {
+                  "width": {
+                    "mode": "fixed",
+                    "value": 132
+                  },
+                  "height": {
+                    "mode": "fixed",
+                    "value": 20
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 132,
+                  "height": 20
+                },
+                "frame": {
+                  "left": 524,
+                  "top": 211,
+                  "width": 132,
+                  "height": 20
+                },
+                "children": [],
+                "text": "观测联系",
+                "transform": "none",
+                "element": {
+                  "aid": "sh/hk3q5o7q",
+                  "id": "18",
+                  "kind": "shape"
+                }
+              }
+            ],
+            "padding": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            },
+            "alignItems": "stretch",
+            "justifyItems": "stretch",
+            "contentFrame": {
+              "left": 512,
+              "top": 204,
+              "width": 156,
+              "height": 34
+            },
+            "items": [
+              {
+                "path": "0.12.0",
+                "frame": {
+                  "left": 512,
+                  "top": 204,
+                  "width": 156,
+                  "height": 34
+                }
+              },
+              {
+                "path": "0.12.1",
+                "frame": {
+                  "left": 524,
+                  "top": 211,
+                  "width": 132,
+                  "height": 20
+                }
+              }
+            ]
+          },
+          {
+            "path": "0.13",
+            "kind": "layers",
+            "position": {
+              "left": 512,
+              "top": 278
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 242
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 54
+              }
+            },
+            "intrinsicSize": {
+              "width": 242,
+              "height": 54
+            },
+            "frame": {
+              "left": 512,
+              "top": 278,
+              "width": 242,
+              "height": 54
+            },
+            "children": [
+              {
+                "path": "0.13.0",
+                "kind": "shape",
+                "position": {
+                  "left": 0,
+                  "top": 8
+                },
+                "requestedSize": {
+                  "width": {
+                    "mode": "fixed",
+                    "value": 9
+                  },
+                  "height": {
+                    "mode": "fixed",
+                    "value": 9
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 9,
+                  "height": 9
+                },
+                "frame": {
+                  "left": 512,
+                  "top": 286,
+                  "width": 9,
+                  "height": 9
+                },
+                "children": [],
+                "geometry": "rect",
+                "element": {
+                  "aid": "sh/oza1gvy9",
+                  "id": "19",
+                  "kind": "shape"
+                }
+              },
+              {
+                "path": "0.13.1",
+                "kind": "text",
+                "position": {
+                  "left": 24,
+                  "top": 0
+                },
+                "requestedSize": {
+                  "width": {
+                    "mode": "fixed",
+                    "value": 218
+                  },
+                  "height": {
+                    "mode": "fixed",
+                    "value": 54
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 218,
+                  "height": 54
+                },
+                "frame": {
+                  "left": 536,
+                  "top": 278,
+                  "width": 218,
+                  "height": 54
+                },
+                "children": [],
+                "text": "解释低质量气态行星更高氧丰度/金属丰度的定性趋势。",
+                "transform": "none",
+                "element": {
+                  "aid": "sh/kf6dcbul",
+                  "id": "20",
+                  "kind": "shape"
+                }
+              }
+            ],
+            "padding": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            },
+            "alignItems": "stretch",
+            "justifyItems": "stretch",
+            "contentFrame": {
+              "left": 512,
+              "top": 278,
+              "width": 242,
+              "height": 54
+            },
+            "items": [
+              {
+                "path": "0.13.0",
+                "frame": {
+                  "left": 512,
+                  "top": 286,
+                  "width": 9,
+                  "height": 9
+                }
+              },
+              {
+                "path": "0.13.1",
+                "frame": {
+                  "left": 536,
+                  "top": 278,
+                  "width": 218,
+                  "height": 54
+                }
+              }
+            ]
+          },
+          {
+            "path": "0.14",
+            "kind": "layers",
+            "position": {
+              "left": 512,
+              "top": 368
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 242
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 54
+              }
+            },
+            "intrinsicSize": {
+              "width": 242,
+              "height": 54
+            },
+            "frame": {
+              "left": 512,
+              "top": 368,
+              "width": 242,
+              "height": 54
+            },
+            "children": [
+              {
+                "path": "0.14.0",
+                "kind": "shape",
+                "position": {
+                  "left": 0,
+                  "top": 8
+                },
+                "requestedSize": {
+                  "width": {
+                    "mode": "fixed",
+                    "value": 9
+                  },
+                  "height": {
+                    "mode": "fixed",
+                    "value": 9
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 9,
+                  "height": 9
+                },
+                "frame": {
+                  "left": 512,
+                  "top": 376,
+                  "width": 9,
+                  "height": 9
+                },
+                "children": [],
+                "geometry": "rect",
+                "element": {
+                  "aid": "sh/d0z61032",
+                  "id": "21",
+                  "kind": "shape"
+                }
+              },
+              {
+                "path": "0.14.1",
+                "kind": "text",
+                "position": {
+                  "left": 24,
+                  "top": 0
+                },
+                "requestedSize": {
+                  "width": {
+                    "mode": "fixed",
+                    "value": 218
+                  },
+                  "height": {
+                    "mode": "fixed",
+                    "value": 54
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 218,
+                  "height": 54
+                },
+                "frame": {
+                  "left": 536,
+                  "top": 368,
+                  "width": 218,
+                  "height": 54
+                },
+                "children": [],
+                "text": "JWST 内盘分子谱线观测可检验水汽富集与卵石漂移迹象。",
+                "transform": "none",
+                "element": {
+                  "aid": "sh/29gr2p8n",
+                  "id": "22",
+                  "kind": "shape"
+                }
+              }
+            ],
+            "padding": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            },
+            "alignItems": "stretch",
+            "justifyItems": "stretch",
+            "contentFrame": {
+              "left": 512,
+              "top": 368,
+              "width": 242,
+              "height": 54
+            },
+            "items": [
+              {
+                "path": "0.14.0",
+                "frame": {
+                  "left": 512,
+                  "top": 376,
+                  "width": 9,
+                  "height": 9
+                }
+              },
+              {
+                "path": "0.14.1",
+                "frame": {
+                  "left": 536,
+                  "top": 368,
+                  "width": 218,
+                  "height": 54
+                }
+              }
+            ]
+          },
+          {
+            "path": "0.15",
+            "kind": "layers",
+            "position": {
+              "left": 512,
+              "top": 458
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 242
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 54
+              }
+            },
+            "intrinsicSize": {
+              "width": 242,
+              "height": 54
+            },
+            "frame": {
+              "left": 512,
+              "top": 458,
+              "width": 242,
+              "height": 54
+            },
+            "children": [
+              {
+                "path": "0.15.0",
+                "kind": "shape",
+                "position": {
+                  "left": 0,
+                  "top": 8
+                },
+                "requestedSize": {
+                  "width": {
+                    "mode": "fixed",
+                    "value": 9
+                  },
+                  "height": {
+                    "mode": "fixed",
+                    "value": 9
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 9,
+                  "height": 9
+                },
+                "frame": {
+                  "left": 512,
+                  "top": 466,
+                  "width": 9,
+                  "height": 9
+                },
+                "children": [],
+                "geometry": "rect",
+                "element": {
+                  "aid": "sh/vu9knih4",
+                  "id": "23",
+                  "kind": "shape"
+                }
+              },
+              {
+                "path": "0.15.1",
+                "kind": "text",
+                "position": {
+                  "left": 24,
+                  "top": 0
+                },
+                "requestedSize": {
+                  "width": {
+                    "mode": "fixed",
+                    "value": 218
+                  },
+                  "height": {
+                    "mode": "fixed",
+                    "value": 54
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 218,
+                  "height": 54
+                },
+                "frame": {
+                  "left": 536,
+                  "top": 458,
+                  "width": 218,
+                  "height": 54
+                },
+                "children": [],
+                "text": "盘环隙、尘埃陷阱会改变冰尘埃供应，需要纳入比较。",
+                "transform": "none",
+                "element": {
+                  "aid": "sh/knih4byh",
+                  "id": "24",
+                  "kind": "shape"
+                }
+              }
+            ],
+            "padding": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            },
+            "alignItems": "stretch",
+            "justifyItems": "stretch",
+            "contentFrame": {
+              "left": 512,
+              "top": 458,
+              "width": 242,
+              "height": 54
+            },
+            "items": [
+              {
+                "path": "0.15.0",
+                "frame": {
+                  "left": 512,
+                  "top": 466,
+                  "width": 9,
+                  "height": 9
+                }
+              },
+              {
+                "path": "0.15.1",
+                "frame": {
+                  "left": 536,
+                  "top": 458,
+                  "width": 218,
+                  "height": 54
+                }
+              }
+            ]
+          },
+          {
+            "path": "0.16",
+            "kind": "shape",
+            "position": {
+              "left": 870,
+              "top": 166
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 342
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 376
+              }
+            },
+            "intrinsicSize": {
+              "width": 342,
+              "height": 376
+            },
+            "frame": {
+              "left": 870,
+              "top": 166,
+              "width": 342,
+              "height": 376
+            },
+            "children": [],
+            "geometry": "rect",
+            "element": {
+              "aid": "sh/d8bat47y",
+              "id": "25",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.17",
+            "kind": "layers",
+            "position": {
+              "left": 912,
+              "top": 204
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 156
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 34
+              }
+            },
+            "intrinsicSize": {
+              "width": 156,
+              "height": 34
+            },
+            "frame": {
+              "left": 912,
+              "top": 204,
+              "width": 156,
+              "height": 34
+            },
+            "children": [
+              {
+                "path": "0.17.0",
+                "kind": "shape",
+                "position": {
+                  "left": 0,
+                  "top": 0
+                },
+                "requestedSize": {
+                  "width": {
+                    "mode": "fixed",
+                    "value": 156
+                  },
+                  "height": {
+                    "mode": "fixed",
+                    "value": 34
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 156,
+                  "height": 34
+                },
+                "frame": {
+                  "left": 912,
+                  "top": 204,
+                  "width": 156,
+                  "height": 34
+                },
+                "children": [],
+                "geometry": "rect",
+                "element": {
+                  "aid": "sh/2lszqtcj",
+                  "id": "26",
+                  "kind": "shape"
+                }
+              },
+              {
+                "path": "0.17.1",
+                "kind": "text",
+                "position": {
+                  "left": 12,
+                  "top": 7
+                },
+                "requestedSize": {
+                  "width": {
+                    "mode": "fixed",
+                    "value": 132
+                  },
+                  "height": {
+                    "mode": "fixed",
+                    "value": 20
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 132,
+                  "height": 20
+                },
+                "frame": {
+                  "left": 924,
+                  "top": 211,
+                  "width": 132,
+                  "height": 20
+                },
+                "children": [],
+                "text": "理论下一步",
+                "transform": "none",
+                "element": {
+                  "aid": "sh/v6psfil0",
+                  "id": "27",
+                  "kind": "shape"
+                }
+              }
+            ],
+            "padding": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            },
+            "alignItems": "stretch",
+            "justifyItems": "stretch",
+            "contentFrame": {
+              "left": 912,
+              "top": 204,
+              "width": 156,
+              "height": 34
+            },
+            "items": [
+              {
+                "path": "0.17.0",
+                "frame": {
+                  "left": 912,
+                  "top": 204,
+                  "width": 156,
+                  "height": 34
+                }
+              },
+              {
+                "path": "0.17.1",
+                "frame": {
+                  "left": 924,
+                  "top": 211,
+                  "width": 132,
+                  "height": 20
+                }
+              }
+            ]
+          },
+          {
+            "path": "0.18",
+            "kind": "layers",
+            "position": {
+              "left": 912,
+              "top": 278
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 242
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 54
+              }
+            },
+            "intrinsicSize": {
+              "width": 242,
+              "height": 54
+            },
+            "frame": {
+              "left": 912,
+              "top": 278,
+              "width": 242,
+              "height": 54
+            },
+            "children": [
+              {
+                "path": "0.18.0",
+                "kind": "shape",
+                "position": {
+                  "left": 0,
+                  "top": 8
+                },
+                "requestedSize": {
+                  "width": {
+                    "mode": "fixed",
+                    "value": 9
+                  },
+                  "height": {
+                    "mode": "fixed",
+                    "value": 9
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 9,
+                  "height": 9
+                },
+                "frame": {
+                  "left": 912,
+                  "top": 286,
+                  "width": 9,
+                  "height": 9
+                },
+                "children": [],
+                "geometry": "rect",
+                "element": {
+                  "aid": "sh/kre1w7mp",
+                  "id": "28",
+                  "kind": "shape"
+                }
+              },
+              {
+                "path": "0.18.1",
+                "kind": "text",
+                "position": {
+                  "left": 24,
+                  "top": 0
+                },
+                "requestedSize": {
+                  "width": {
+                    "mode": "fixed",
+                    "value": 218
+                  },
+                  "height": {
+                    "mode": "fixed",
+                    "value": 54
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 218,
+                  "height": 54
+                },
+                "frame": {
+                  "left": 936,
+                  "top": 278,
+                  "width": 218,
+                  "height": 54
+                },
+                "children": [],
+                "text": "把该盘化学富集模型接入行星形成与气体吸积计算。",
+                "transform": "none",
+                "element": {
+                  "aid": "sh/dcbulwva",
+                  "id": "29",
+                  "kind": "shape"
+                }
+              }
+            ],
+            "padding": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            },
+            "alignItems": "stretch",
+            "justifyItems": "stretch",
+            "contentFrame": {
+              "left": 912,
+              "top": 278,
+              "width": 242,
+              "height": 54
+            },
+            "items": [
+              {
+                "path": "0.18.0",
+                "frame": {
+                  "left": 912,
+                  "top": 286,
+                  "width": 9,
+                  "height": 9
+                }
+              },
+              {
+                "path": "0.18.1",
+                "frame": {
+                  "left": 936,
+                  "top": 278,
+                  "width": 218,
+                  "height": 54
+                }
+              }
+            ]
+          },
+          {
+            "path": "0.19",
+            "kind": "layers",
+            "position": {
+              "left": 912,
+              "top": 368
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 242
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 54
+              }
+            },
+            "intrinsicSize": {
+              "width": 242,
+              "height": 54
+            },
+            "frame": {
+              "left": 912,
+              "top": 368,
+              "width": 242,
+              "height": 54
+            },
+            "children": [
+              {
+                "path": "0.19.0",
+                "kind": "shape",
+                "position": {
+                  "left": 0,
+                  "top": 8
+                },
+                "requestedSize": {
+                  "width": {
+                    "mode": "fixed",
+                    "value": 9
+                  },
+                  "height": {
+                    "mode": "fixed",
+                    "value": 9
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 9,
+                  "height": 9
+                },
+                "frame": {
+                  "left": 912,
+                  "top": 376,
+                  "width": 9,
+                  "height": 9
+                },
+                "children": [],
+                "geometry": "rect",
+                "element": {
+                  "aid": "sh/zidonyd0",
+                  "id": "30",
+                  "kind": "shape"
+                }
+              },
+              {
+                "path": "0.19.1",
+                "kind": "text",
+                "position": {
+                  "left": 24,
+                  "top": 0
+                },
+                "requestedSize": {
+                  "width": {
+                    "mode": "fixed",
+                    "value": 218
+                  },
+                  "height": {
+                    "mode": "fixed",
+                    "value": 54
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 218,
+                  "height": 54
+                },
+                "frame": {
+                  "left": 936,
+                  "top": 368,
+                  "width": 218,
+                  "height": 54
+                },
+                "children": [],
+                "text": "处理红外观测主要追踪盘表层、而尘埃富集发生在中平面的差异。",
+                "transform": "none",
+                "element": {
+                  "aid": "sh/a1gvy90j",
+                  "id": "31",
+                  "kind": "shape"
+                }
+              }
+            ],
+            "padding": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            },
+            "alignItems": "stretch",
+            "justifyItems": "stretch",
+            "contentFrame": {
+              "left": 912,
+              "top": 368,
+              "width": 242,
+              "height": 54
+            },
+            "items": [
+              {
+                "path": "0.19.0",
+                "frame": {
+                  "left": 912,
+                  "top": 376,
+                  "width": 9,
+                  "height": 9
+                }
+              },
+              {
+                "path": "0.19.1",
+                "frame": {
+                  "left": 936,
+                  "top": 368,
+                  "width": 218,
+                  "height": 54
+                }
+              }
+            ]
+          },
+          {
+            "path": "0.20",
+            "kind": "layers",
+            "position": {
+              "left": 912,
+              "top": 468
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 242
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 54
+              }
+            },
+            "intrinsicSize": {
+              "width": 242,
+              "height": 54
+            },
+            "frame": {
+              "left": 912,
+              "top": 468,
+              "width": 242,
+              "height": 54
+            },
+            "children": [
+              {
+                "path": "0.20.0",
+                "kind": "shape",
+                "position": {
+                  "left": 0,
+                  "top": 8
+                },
+                "requestedSize": {
+                  "width": {
+                    "mode": "fixed",
+                    "value": 9
+                  },
+                  "height": {
+                    "mode": "fixed",
+                    "value": 9
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 9,
+                  "height": 9
+                },
+                "frame": {
+                  "left": 912,
+                  "top": 476,
+                  "width": 9,
+                  "height": 9
+                },
+                "children": [],
+                "geometry": "rect",
+                "element": {
+                  "aid": "sh/hoza1gvy",
+                  "id": "32",
+                  "kind": "shape"
+                }
+              },
+              {
+                "path": "0.20.1",
+                "kind": "text",
+                "position": {
+                  "left": 24,
+                  "top": 0
+                },
+                "requestedSize": {
+                  "width": {
+                    "mode": "fixed",
+                    "value": 218
+                  },
+                  "height": {
+                    "mode": "fixed",
+                    "value": 54
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 218,
+                  "height": 54
+                },
+                "frame": {
+                  "left": 936,
+                  "top": 468,
+                  "width": 218,
+                  "height": 54
+                },
+                "children": [],
+                "text": "定量检验是否能复现实测质量-金属丰度斜率和离散度。",
+                "transform": "none",
+                "element": {
+                  "aid": "sh/s36hcrmh",
+                  "id": "33",
+                  "kind": "shape"
+                }
+              }
+            ],
+            "padding": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            },
+            "alignItems": "stretch",
+            "justifyItems": "stretch",
+            "contentFrame": {
+              "left": 912,
+              "top": 468,
+              "width": 242,
+              "height": 54
+            },
+            "items": [
+              {
+                "path": "0.20.0",
+                "frame": {
+                  "left": 912,
+                  "top": 476,
+                  "width": 9,
+                  "height": 9
+                }
+              },
+              {
+                "path": "0.20.1",
+                "frame": {
+                  "left": 936,
+                  "top": 468,
+                  "width": 218,
+                  "height": 54
+                }
+              }
+            ]
+          },
+          {
+            "path": "0.21",
+            "kind": "text",
+            "position": {
+              "left": 118,
+              "top": 596
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 1040
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 42
+              }
+            },
+            "intrinsicSize": {
+              "width": 1040,
+              "height": 42
+            },
+            "frame": {
+              "left": 118,
+              "top": 596,
+              "width": 1040,
+              "height": 42
+            },
+            "children": [],
+            "text": "一句话结论：表面吸积让“脆弱慢漂移冰尘埃”成为内盘重元素富集的有效来源。",
+            "transform": "none",
+            "element": {
+              "aid": "sh/za1gvy90",
+              "id": "34",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.22",
+            "kind": "text",
+            "position": {
+              "left": 58,
+              "top": 674
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 720
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 24
+              }
+            },
+            "intrinsicSize": {
+              "width": 720,
+              "height": 24
+            },
+            "frame": {
+              "left": 58,
+              "top": 674,
+              "width": 720,
+              "height": 24
+            },
+            "children": [],
+            "text": "Ikeda, Ohno & Okuzumi | Surface-accretion disk enrichment",
+            "transform": "none",
+            "element": {
+              "aid": "sh/ap4r65wj",
+              "id": "35",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.23",
+            "kind": "text",
+            "position": {
+              "left": 1170,
+              "top": 674
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 52
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 24
+              }
+            },
+            "intrinsicSize": {
+              "width": 52,
+              "height": 24
+            },
+            "frame": {
+              "left": 1170,
+              "top": 674,
+              "width": 52,
+              "height": 24
+            },
+            "children": [],
+            "text": "07",
+            "transform": "none",
+            "element": {
+              "aid": "sh/hgn29gr2",
+              "id": "36",
+              "kind": "shape"
+            }
+          }
+        ],
+        "padding": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "alignItems": "stretch",
+        "justifyItems": "stretch",
+        "contentFrame": {
+          "left": 0,
+          "top": 0,
+          "width": 1280,
+          "height": 720
+        },
+        "items": [
+          {
+            "path": "0.0",
+            "frame": {
+              "left": 0,
+              "top": 0,
+              "width": 1280,
+              "height": 720
+            }
+          },
+          {
+            "path": "0.1",
+            "frame": {
+              "left": 0,
+              "top": 0,
+              "width": 1280,
+              "height": 720
+            }
+          },
+          {
+            "path": "0.2",
+            "frame": {
+              "left": 58,
+              "top": 48,
+              "width": 6,
+              "height": 54
+            }
+          },
+          {
+            "path": "0.3",
+            "frame": {
+              "left": 82,
+              "top": 42,
+              "width": 850,
+              "height": 60
+            }
+          },
+          {
+            "path": "0.4",
+            "frame": {
+              "left": 1010,
+              "top": 52,
+              "width": 210,
+              "height": 28
+            }
+          },
+          {
+            "path": "0.5",
+            "frame": {
+              "left": 58,
+              "top": 118,
+              "width": 1164,
+              "height": 1.5
+            }
+          },
+          {
+            "path": "0.6",
+            "frame": {
+              "left": 70,
+              "top": 166,
+              "width": 342,
+              "height": 376
+            }
+          },
+          {
+            "path": "0.7",
+            "frame": {
+              "left": 112,
+              "top": 204,
+              "width": 156,
+              "height": 34
+            }
+          },
+          {
+            "path": "0.8",
+            "frame": {
+              "left": 112,
+              "top": 278,
+              "width": 242,
+              "height": 54
+            }
+          },
+          {
+            "path": "0.9",
+            "frame": {
+              "left": 112,
+              "top": 354,
+              "width": 242,
+              "height": 54
+            }
+          },
+          {
+            "path": "0.10",
+            "frame": {
+              "left": 112,
+              "top": 444,
+              "width": 242,
+              "height": 54
+            }
+          },
+          {
+            "path": "0.11",
+            "frame": {
+              "left": 470,
+              "top": 166,
+              "width": 342,
+              "height": 376
+            }
+          },
+          {
+            "path": "0.12",
+            "frame": {
+              "left": 512,
+              "top": 204,
+              "width": 156,
+              "height": 34
+            }
+          },
+          {
+            "path": "0.13",
+            "frame": {
+              "left": 512,
+              "top": 278,
+              "width": 242,
+              "height": 54
+            }
+          },
+          {
+            "path": "0.14",
+            "frame": {
+              "left": 512,
+              "top": 368,
+              "width": 242,
+              "height": 54
+            }
+          },
+          {
+            "path": "0.15",
+            "frame": {
+              "left": 512,
+              "top": 458,
+              "width": 242,
+              "height": 54
+            }
+          },
+          {
+            "path": "0.16",
+            "frame": {
+              "left": 870,
+              "top": 166,
+              "width": 342,
+              "height": 376
+            }
+          },
+          {
+            "path": "0.17",
+            "frame": {
+              "left": 912,
+              "top": 204,
+              "width": 156,
+              "height": 34
+            }
+          },
+          {
+            "path": "0.18",
+            "frame": {
+              "left": 912,
+              "top": 278,
+              "width": 242,
+              "height": 54
+            }
+          },
+          {
+            "path": "0.19",
+            "frame": {
+              "left": 912,
+              "top": 368,
+              "width": 242,
+              "height": 54
+            }
+          },
+          {
+            "path": "0.20",
+            "frame": {
+              "left": 912,
+              "top": 468,
+              "width": 242,
+              "height": 54
+            }
+          },
+          {
+            "path": "0.21",
+            "frame": {
+              "left": 118,
+              "top": 596,
+              "width": 1040,
+              "height": 42
+            }
+          },
+          {
+            "path": "0.22",
+            "frame": {
+              "left": 58,
+              "top": 674,
+              "width": 720,
+              "height": 24
+            }
+          },
+          {
+            "path": "0.23",
+            "frame": {
+              "left": 1170,
+              "top": 674,
+              "width": 52,
+              "height": 24
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
