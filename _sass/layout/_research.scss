@@ -1,0 +1,35 @@
+.research-grid {
+  @include clearfix();
+
+  .grid__item {
+    @include full();
+    margin-bottom: 4em;
+
+    .archive__item-teaser {
+      max-width: 400px;
+      max-height: 280px;
+      margin: 0 auto;
+    }
+
+    .archive__item-title {
+      text-align: center;
+      margin-top: 0.75em;
+    }
+
+    .archive__item-excerpt,
+    .page__date,
+    .page__meta {
+      display: none !important;
+    }
+  }
+}
+
+.figure-half-width {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+
+  img {
+    width: 100%;
+  }
+}

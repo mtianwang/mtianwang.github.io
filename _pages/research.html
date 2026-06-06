@@ -7,7 +7,9 @@ author_profile: true
 entries_layout: grid   # "grid" = cards; use "list" for a vertical list
 ---
 
+<div class="research-grid">
 {% assign items = site.research | sort: "date" | reverse %}
 {% for post in items %}
   {% include archive-single.html type="grid" %}
 {% endfor %}
+</div>
