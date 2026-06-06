@@ -1,7 +1,7 @@
 ---
 title: "The Variable Accretion History of EX Lupi"
 header:
-  teaser: research/Exlup/Exlup.png
+  teaser: research/exlup/Exlup.png
 ---
 
 Long ago, the observations of young stellar objects (YSOs) that is still undergoing active disk accretion appear underluminous compared to model predictions, which then believes the mass accretion is a steady process [(Kenyon et al. 1990)](https://ui.adsabs.harvard.edu/abs/1990AJ.....99..869K/abstract). 
